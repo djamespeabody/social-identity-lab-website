@@ -19,7 +19,8 @@ subtitle = ""
 
 title = "Research"
 
-links:
+header:
+ links:
   - icon_pack: fab
     icon: twitter
     name: Follow

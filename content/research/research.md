@@ -17,6 +17,6 @@ subtitle = ""
 
 +++
 
-<p><a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a></p>
+<a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a>
 
-<p><a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a></p>
+<a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a>

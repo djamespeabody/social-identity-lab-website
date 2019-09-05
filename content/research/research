@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Research"
 subtitle = ""
 
 [design]
@@ -20,3 +20,4 @@ subtitle = ""
 title = "Research"
 
 <a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a>
+stuff stuff stuff

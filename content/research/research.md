@@ -17,10 +17,6 @@ subtitle = ""
 
 +++
 
-<a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a>
-links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/Twitter'
+<p><a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a></p>
 
+<p><a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a></p>

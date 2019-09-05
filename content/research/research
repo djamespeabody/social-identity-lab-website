@@ -19,9 +19,4 @@ subtitle = ""
 
 title = "Research"
 
-header:
- links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/Twitter'
+<a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a>

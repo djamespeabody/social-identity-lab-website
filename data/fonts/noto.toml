@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Noto"
+
+# Optional Google font URL
+google_fonts = "Noto+Serif|Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Noto Serif"
+body_font = "Roboto"
+nav_font = "Noto Serif"
+mono_font = "Roboto Mono"

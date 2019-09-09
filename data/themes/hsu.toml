@@ -5,10 +5,10 @@ name = "HSU"
 light = true
 
 # Primary
-primary = "#4caf50"
+primary = "#134e13"
 
 # Menu
-menu_primary = "#4caf50"
+menu_primary = "#134e13"
 menu_text = "#fff"
 menu_text_active = "#1b5e20"
 menu_title = "#fff"

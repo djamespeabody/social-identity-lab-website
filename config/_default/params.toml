@@ -14,7 +14,7 @@ day_night = true
 #   Latest font sets (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "noto"
 
 # Choose a font size.
 # Sizes: s (small), m (medium), l (large)

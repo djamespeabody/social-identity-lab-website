@@ -17,7 +17,7 @@ subtitle = ""
 
 +++
 
-<p style="margin-left: 20px; text-indent: -20px;">Gaffney, A. M., & La Vogue, N. (forthcoming). Dogmatism and need for closure. In M. A. Hogg (Ed.), The Oxford Encyclopedia of Social Psychology.  New York: Oxford University Press.</p> 
+<p style="margin-left: 40px; text-indent: -40px;">Gaffney, A. M., & La Vogue, N. (forthcoming). Dogmatism and need for closure. In M. A. Hogg (Ed.), The Oxford Encyclopedia of Social Psychology.  New York: Oxford University Press.</p> 
 
 Gaffney, A. M., Sherburne, B. M., Hackett, J. D., Rast, D. E. III, & Hohman, Z. P. (2019). The transformative and informative nature of elections: Representation, schism, and exit. British Journal of Social Psychology, 58(1), 88-104. doi: 10.1111/bjso.12279
 

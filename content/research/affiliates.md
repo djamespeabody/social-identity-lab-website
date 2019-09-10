@@ -17,12 +17,8 @@ subtitle = ""
 
 +++
 
-<p align="center"><a href=http://www.socialidentitylab.com/>Professor Michael Hogg's Social Identity Lab</a> 
-
-<a href=http://sites.psych.ualberta.ca/rastlab/>Dr. David Rast's Group Processes and Leadership Lab<a>
-
-<a href=https://www.calu.edu/inside/faculty-staff/profiles/justin-hackett.aspx>Dr. Justin Hackett's work in applied social psychology</a>
-
-<a href=https://www.depts.ttu.edu/psy/sith/>Dr. Zachary Hohman's Social Identity & Heath Lab</a>
-
-<a href=http://www.healthpersuasion.com/>Professor William Crano's Health Psychology & Prevention Science Institute</a></p>
+<p align="center"><a href=http://www.socialidentitylab.com/>Professor Michael Hogg's Social Identity Lab</a></p>
+<p align="center"><a href=http://sites.psych.ualberta.ca/rastlab/>Dr. David Rast's Group Processes and Leadership Lab<a></p>
+<p align="center"><a href=https://www.calu.edu/inside/faculty-staff/profiles/justin-hackett.aspx>Dr. Justin Hackett's work in applied social psychology</a></p>
+<p align="center"><a href=https://www.depts.ttu.edu/psy/sith/>Dr. Zachary Hohman's Social Identity & Heath Lab</a></p>
+<p align="center"><a href=http://www.healthpersuasion.com/>Professor William Crano's Health Psychology & Prevention Science Institute</a></p>

@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
-title = "<p align="center">The HSU Social Identity lab works collaboratively with the following labs:</p>"
+title = ""
 subtitle = ""
 
 [design]
@@ -16,6 +16,7 @@ subtitle = ""
   columns = "1"
 
 +++
+<p align="center">The HSU Social Identity lab works collaboratively with the following labs:</p>
 
 <p align="center"><a href=http://www.socialidentitylab.com/>Professor Michael Hogg's Social Identity Lab</a></p>
 <p align="center"><a href=http://sites.psych.ualberta.ca/rastlab/>Dr. David Rast's Group Processes and Leadership Lab<a></p>

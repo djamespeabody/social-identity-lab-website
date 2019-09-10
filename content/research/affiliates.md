@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
-title = "The HSU Social Identity lab works collaboratively with the following labs:"
+title = "<p align="center">The HSU Social Identity lab works collaboratively with the following labs:</p>"
 subtitle = ""
 
 [design]

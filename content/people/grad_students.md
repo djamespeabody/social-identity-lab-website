@@ -17,4 +17,4 @@ subtitle = ""
 
 +++
 
-<p style="font-size:20px; text-align: center">Graduate Students</p>
+<p style="font-size:40px; text-align: center">Graduate Students</p>

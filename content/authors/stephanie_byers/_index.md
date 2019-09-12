@@ -1,16 +1,16 @@
 ---
 # Display name
-name: James Peabody
+name: Stephanie Byers
 
 # Username (this should match the folder name)
 authors:
-- admin
+- stephanie_byers
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -19,23 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +53,11 @@ user_groups:
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<p><b>Thesis</b><br>
+Papal Support for Women Under Uncertainty: Changing Perceptions of Women in Religious Leadership Positions in the Roman Catholic Church.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<p><b>Research Interests</b><br>
+I’m interested in researching stereotype content, prejudice, attitude change, and leadership. In my research, I attempt to merge these interests by examining marginalized groups in a leadership context in an attempt to improve perceptions of their leadership efficacy and support – two elements which are paramount to their success.</p>
+
+<p style="margin-left: 60px; text-indent: -60px;"><b>Recent Work</b><br>
+Byers S. M., Estrada D., Sherburne, B., Gaffney, A. M., & Hackett, J. D. (2018, July). <i>Trumping group threat: The relationship between threat, conservatism, and political zealotry during the 2016 U.S presidential campaign season</i>. Poster session presented at the annual meeting of the International Society of Political Psychology, San Antonio, TX.</p>

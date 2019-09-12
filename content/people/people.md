@@ -3,16 +3,13 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+weight = 150  # Order that this section will appear.
 
-title = "People"
+title = "Alumni"
 subtitle = ""
 
-[[member]]
-	id = "James Peabody"
-	image = ""
-	email = "jpeabody@humboldt.edu"
-	github = "djamespeabody"
-	description = "Stuff."
-
+# List user groups to display.
+#   Edit each user's `user_groups` to add them to one or more of these groups.
+user_groups = ["Alumni"]
 +++
+

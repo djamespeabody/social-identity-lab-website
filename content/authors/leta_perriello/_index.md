@@ -55,6 +55,5 @@ user_groups:
 
 ---
 
-<b>Research Interests</b>
-
+<h3>Research Interests</h3>
 Although my career goal is to practice counseling clinical psychology, especially for socially stigmatized individuals such as those who identify as LGBT and ethnic minority groups, my work in the SI lab provides me with important training in intergroup relations, which I believe is necessary in my future career. I am most interested in studying dehumanization and uncertainty processes in relation to trauma experiences. I aim to treat those suffering from mental illness with socially relevant prevention and intervention techniques.

@@ -18,10 +18,10 @@
   url = "https://lucid-banach-66be79.netlify.com/research"
   weight = 30
 
-# [[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
+[[main]]
+  name = "People"
+  url = "https://lucid-banach-66be79.netlify.com/people"
+  weight = 40
 
 # [[main]]
 #  name = "Contact"

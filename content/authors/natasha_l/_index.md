@@ -1,41 +1,26 @@
 ---
 # Display name
-name: James Peabody
+name: Natasha La Vogue
 
 # Username (this should match the folder name)
 authors:
-- admin
+- natasha_l
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +29,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'mailto:nal350@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +46,11 @@ user_groups:
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<h3>Thesis</h3>
+Influenced by the Other: How Uncertainty Affects Minority Influence in Intra and Intergroup Contexts.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<h3>Research Interests</h3>
+My research interests are centered around social justice and activism. Having such a general interest allows me to pursue many avenues. My favorite areas are minority influence, social identity theory, group processes, and intergroup relations. Given the current state of our society and communities, a groups based approach is the best method to address the problems that plague our society. As researchers we have access to knowledge that helps to clarify the mess we are in, the fun part is getting to explore that knowledge.
+
+<h3>Recent Work</h3>
+<p style="margin-left: 60px; text-indent: -60px;">La Vogue, N., Jaurique, A., Gaffney, A. M., & Hackett, J. D. (2017, July). Is 2016 a diversity backlash? Political identity norms and the future of democratic election. Oral presentation at the annual meeting of the International Society of Political Psychology, Edinburgh, Scotland.</p>

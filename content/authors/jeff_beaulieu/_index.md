@@ -42,11 +42,11 @@ user_groups:
 
 ---
 
-<p><b>Thesis</b><br>
-Weight Loss in Groups:  How Leaders and Uncertainty Influence Weight Loss Intentions.</p>
+<h3>Thesis</h3>
+Weight Loss in Groups:  How Leaders and Uncertainty Influence Weight Loss Intentions.
 
-<p><b>Research Interests</b><br>
-I am interested in social identity, leadership, uncertainty, group identification, and public health.  In my research, I am examining the preference for different forms of prototypical leadership when people experience uncertainty and how this affects weight loss intentions and health behaviors.  With my research I hope to create more effective interventions for a variety of public health issues.</p> 
+<h3>Research Interests</h3>
+I am interested in social identity, leadership, uncertainty, group identification, and public health.  In my research, I am examining the preference for different forms of prototypical leadership when people experience uncertainty and how this affects weight loss intentions and health behaviors.  With my research I hope to create more effective interventions for a variety of public health issues.
 
-<p><b>Recent Work</b><br>
-Beaulieu, J. B., Conso, M., Littman, H. L., Moore, C. R., Streator, N., Sherburne, B., Syfers, L., Gaffney, A. M., Rast, D. E. III. (2019, April). <i>Deviant leaders: Examining the effect of group consensus on individuals' attitudes towards a leader's position</i>. Poster session presented at the annual meeting of the Western Psychological Association, Pasadena, CA.</p>
+<h3>Recent Work</h3>
+<p style="margin-left: 60px; text-indent: -60px;">Beaulieu, J. B., Conso, M., Littman, H. L., Moore, C. R., Streator, N., Sherburne, B., Syfers, L., Gaffney, A. M., Rast, D. E. III. (2019, April). <i>Deviant leaders: Examining the effect of group consensus on individuals' attitudes towards a leader's position</i>. Poster session presented at the annual meeting of the Western Psychological Association, Pasadena, CA.</p>

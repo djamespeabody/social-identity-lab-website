@@ -43,8 +43,8 @@ user_groups:
 
 ---
 
-<h3><b>Research Interests</b><h3>
+<h3>Research Interests<h3>
 I am interested in examining how individuals' feelings of belongingness affects patterns related to intergroup relations in political contexts. I am interested in exploring these constructs through the lenses of social identity theory, self-categorization theory, and uncertainty-identity theory.</p>
 
-<h3><b>Recent Work</b></h3>
+<h3>Recent Work</h3>
 <p style="margin-left: 60px; text-indent: -60px;">Peabody, D., Sherburne, B., Hackett, J. D., & Gaffney, A. M. (2019). <i>Relationships between Prototypicality, Integrated Threat, and Outgroup Evaluations.</i> Poster presented at the Society for the Psychological Study of Social Issues Conference in San Diego, CA.</p>

@@ -1,41 +1,22 @@
 ---
 # Display name
-name: James Peabody
+name: Jeff Beaulieu
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jeff_beaulieu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +25,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'mailto:jmb1696@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +42,11 @@ user_groups:
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<p><b>Thesis</b><br>
+Weight Loss in Groups:  How Leaders and Uncertainty Influence Weight Loss Intentions.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<p><b>Research Interests</b><br>
+I am interested in social identity, leadership, uncertainty, group identification, and public health.  In my research, I am examining the preference for different forms of prototypical leadership when people experience uncertainty and how this affects weight loss intentions and health behaviors.  With my research I hope to create more effective interventions for a variety of public health issues.</p> 
+
+<p style="margin-left: 60px; text-indent: -60px;"><b>Recent Work</b><br>
+Beaulieu, J. B., Conso, M., Littman, H. L., Moore, C. R., Streator, N., Sherburne, B., Syfers, L., Gaffney, A. M., Rast, D. E. III. (2019, April). <i>Deviant leaders: Examining the effect of group consensus on individuals' attitudes towards a leader's position</i>. Poster session presented at the annual meeting of the Western Psychological Association, Pasadena, CA.</p>

@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Graduate Students"
+title = ""
 subtitle = ""
 
 [design]
@@ -17,3 +17,4 @@ subtitle = ""
 
 +++
 
+<p style="font-size:20px; text-align: center">Graduate Students</p>

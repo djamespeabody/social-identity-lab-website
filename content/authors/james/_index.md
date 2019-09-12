@@ -43,7 +43,7 @@ user_groups:
 
 ---
 
-<h3>Research Interests<h3>
+<h3>Research Interests</h3>
 I am interested in examining how individuals' feelings of belongingness affects patterns related to intergroup relations in political contexts. I am interested in exploring these constructs through the lenses of social identity theory, self-categorization theory, and uncertainty-identity theory.
 
 <h3>Recent Work</h3>

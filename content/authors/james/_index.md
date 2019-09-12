@@ -70,6 +70,9 @@ user_groups:
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Research Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am interested in examining how individuals' feelings of belongingness affects patterns related to intergroup relations in political contexts. I am interested in exploring these constructs through the lenses of social identity theory, self-categorization theory, and uncertainty-identity theory.
+
+<p><b>Recent Work</b></p>
+<p style="margin-left: 60px; text-indent: -60px;">Peabody, D., Sherburne, B., Hackett, J. D., & Gaffney, A. M. (2019). <i>Relationships between Prototypicality, Integrated Threat, and Outgroup Evaluations.</i> Poster presented at the Society for the Psychological Study of Social Issues Conference in San Diego, CA.</p>

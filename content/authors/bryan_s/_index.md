@@ -70,6 +70,10 @@ user_groups:
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bryan Sherburne is a Ph.D. Student in Mass Communications and Social Psychology at Aristotle University of Thessaloniki and a Lecturer at Humboldt State University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<h3>Research Interests</h3>
+My research interests include examining how fundamental changes to multiple levels of group identity (i.e., superordinate identity change and pressure from distinct group factions) can fundamentally alter people's sense of belonging within their groups and societies. This includes a focus on uncertainty-identity theory, social identity theory, and perceptions of leadership.
+
+<h3>Recent Work</h3>
+Sherburne, B., Gaffney, A. M., Hackett, J. D., Rast, D. E., III., & Hohman, Z. P. (2018, April). <i>Effects of new leadership on schismatic intentions</i>. Oral presentation at the annual meeting of the Western Psychological Association, Portland, OR. 

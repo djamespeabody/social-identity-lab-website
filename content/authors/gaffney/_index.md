@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Psychology
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-- name: Humboldt State University
-  url: "https://psychology.humboldt.edu/people/amber-gaffney"
+- name:
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

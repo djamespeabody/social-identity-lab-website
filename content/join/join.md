@@ -5,12 +5,14 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
-title = "Thanks for your interest in joining the Social Identity Lab!"
+title = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+
+<h1>Thanks for your interest in joining the Social Identity Lab!</h1>
 
 <h2>Prospective Research Assistants:</h2>
 <p>Research assistants (RA's) are crucial to the success of our lab and can contribute to many aspects of the research process. RA's can contribute by assisting with study design, data collection, data entry, literature searches, contribution to conference presentations. Our lab accommodates RA's schedules with all levels of time commitments. 
@@ -18,8 +20,8 @@ It is possible to receive units for being an RA, which holds a required weekly t
 
 <p>Please contact Dr. Gaffney (Amber.Gaffney@humboldt.edu) to schedule a meeting to discuss joining the lab.</p>
 
-<h3>Preferred qualifications</h3>
-<p>Psychology major<br>
+<p><b>Preferred qualifications:<b><br>
+Psychology major<br>
 2-semester commitment<br>
 Interest in Social Psychology<br>
 Ability to work independently & work well with others</p>

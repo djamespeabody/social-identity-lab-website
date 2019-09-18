@@ -52,7 +52,7 @@ body {
   vertical-align: middle;
   width: 100%;
 }
-
+{
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
   .column {

@@ -15,15 +15,12 @@ title = ""
 +++
 
 
-<html>
-<style>
 <!-- Start WOW Slider.com HEAD section -->
 <link rel="stylesheet" type="text/css" href="engine1/style.css" />
 <script type="text/javascript" src="engine1/jquery.js"></script>
 <!-- End WOW Slider.com HEAD section -->
 
-</style>
-
+<html>
 <body>
 
 <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->

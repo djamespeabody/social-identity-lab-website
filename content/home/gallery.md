@@ -83,8 +83,8 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/ally_poster_1.jpg">
-      <img src="img/ally_poster_1.jpg" alt="Forest" width="600" height="400">
+    <a target="_blank" href="static/img/ally_poster_1.jpg">
+      <img src="static/img/ally_poster_1.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>

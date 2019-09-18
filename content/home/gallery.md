@@ -86,34 +86,18 @@ body {
     <img src="img/dog_2.jpg" style="width:100%">
     <img src="img/dog_3.jpg" style="width:100%">
     <img src="img/dog_4.jpg" style="width:100%">
-    <img src="/w3images/nature.jpg" style="width:100%">
-    <img src="/w3images/mist.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
   </div>
   <div class="column">
     <img src="img/dog_5.jpg" style="width:100%">
     <img src="img/dog_6.jpg" style="width:100%">
-    <img src="/w3images/wedding.jpg" style="width:100%">
-    <img src="/w3images/mountainskies.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/underwater.jpg" style="width:100%">
   </div>  
   <div class="column">
     <img src="img/dog_7.jpg" style="width:100%">
     <img src="img/dog_8.jpg" style="width:100%">
-    <img src="/w3images/falls2.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
-    <img src="/w3images/nature.jpg" style="width:100%">
-    <img src="/w3images/mist.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
   </div>
   <div class="column">
     <img src="img/dog_9.jpg" style="width:100%">
     <img src="img/dog_10.jpg" style="width:100%">
-    <img src="/w3images/wedding.jpg" style="width:100%">
-    <img src="/w3images/mountainskies.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/underwater.jpg" style="width:100%">
   </div>
 </div>
 

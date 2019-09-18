@@ -21,8 +21,7 @@ title = ""
 <link rel="stylesheet" type="text/css" href="engine1/style.css" />
 <script type="text/javascript" src="engine1/jquery.js"></script>
 <!-- End WOW Slider.com HEAD section -->
-HTML code to paste between the tags <body></body> in the place that you want the js Slider to appear:
-  
+
 </style>
 
 <body>

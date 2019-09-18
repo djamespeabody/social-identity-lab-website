@@ -14,26 +14,30 @@ title = ""
   
 +++
 
+
+<html>
+<style>
 <!-- Start WOW Slider.com HEAD section -->
 <link rel="stylesheet" type="text/css" href="engine1/style.css" />
 <script type="text/javascript" src="engine1/jquery.js"></script>
 <!-- End WOW Slider.com HEAD section -->
 HTML code to paste between the tags <body></body> in the place that you want the js Slider to appear:
+  
+</style>
 
-<html>
 <body>
 
 <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
 <div id="wowslider-container1">
 <div class="ws_images"><ul>
-	<li><img src="data1/images/bun268237_1280.jpg" alt="js slider" title="Cake" id="wows1_0"/></li>
-	<li><img src="data1/images/clams.jpg" alt=" carousel js" title="Clams" id="wows1_1"/></li>
-	<li><img src="data1/images/peppers.jpg" alt="slideshow js" title="Peppers" id="wows1_2"/></li>
+	<li><img src="img/dog_1.jpg" alt="js slider" title="Cake" id="wows1_0"/></li>
+	<li><img src="img/dog_2.jpg" alt=" carousel js" title="Clams" id="wows1_1"/></li>
+	<li><img src="img/dog_3.jpg" alt="slideshow js" title="Peppers" id="wows1_2"/></li>
 </ul></div>
 <div class="ws_bullets"><div>
-	<a href="#" title="Cake"><span><img src="data1/tooltips/bun268237_1280.jpg" alt="Cake"/>jquery slider js</span></a>
-	<a href="#" title="Clams"><span><img src="data1/tooltips/clams.jpg" alt="Clams"/>bootstrap carousel js</span></a>
-	<a href="#" title="Peppers"><span><img src="data1/tooltips/peppers.jpg" alt="Peppers"/>image slider js</span></a>
+	<a href="#" title="Cake"><span><img src="img/dog_1.jpg" alt="Cake"/>jquery slider js</span></a>
+	<a href="#" title="Clams"><span><img src="img/dog_2.jpg" alt="Clams"/>bootstrap carousel js</span></a>
+	<a href="#" title="Peppers"><span><img src="img/dog_3.jpg" alt="Peppers"/>image slider js</span></a>
 </div></div>
 <div class="ws_shadow"></div>
 </div>	

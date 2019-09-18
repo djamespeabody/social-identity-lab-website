@@ -1,6 +1,6 @@
 ---
 # Display name
-name: James Peabody
+name: Lily Syfers
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social Psychology Ph.D. student at University of Alberta
 
 education:
   courses:
@@ -66,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 
 ---
 

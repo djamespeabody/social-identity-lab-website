@@ -23,10 +23,10 @@
   url = "https://lucid-banach-66be79.netlify.com/people"
   weight = 40
 
-[[main]]
-  name = "Lab in Action"
-  url = "https://lucid-banach-66be79.netlify.com/lab_in_action"
-  weight = 60
+# [[main]]
+#  name = "Lab in Action"
+#  url = "https://lucid-banach-66be79.netlify.com/lab_in_action"
+#  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

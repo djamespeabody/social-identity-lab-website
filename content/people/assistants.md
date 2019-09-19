@@ -17,8 +17,8 @@ subtitle = ""
 
 +++
 
-<h3 style="text-align:right">Research Assistants</h3>
-<p style="text-align:right">Logan Ashworth<br>
+<h3 style="text-align:center">Research Assistants</h3>
+<p style="text-align:center">Logan Ashworth<br>
 Jonathan Broadhurst<br>
 Haley Carter<br>
 Delilah Cervates<br>

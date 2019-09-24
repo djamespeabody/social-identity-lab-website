@@ -14,8 +14,6 @@ title = ""
   
 +++
 
-
-<!DOCTYPE html>
 <html>
 <style>
 * {

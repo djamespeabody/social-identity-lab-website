@@ -1,19 +1,9 @@
 +++
-# About widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+title = "Lab"
 
-title = ""
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-  
 [[gallery_item]]
   album = "gallery_folder"
-  image = "content/gallery/gallery_images/dog_1.jpg"
+  image = "dog_1.jpg"
   caption = "Emma"
   
 [[gallery_item]]

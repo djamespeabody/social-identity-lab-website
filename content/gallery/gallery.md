@@ -12,4 +12,4 @@ title = "Lab"
   
 +++
 <h2>Our Lab in Action!</h2>
-{{< gallery album="<gallery_images>" >}} 
+{{< gallery album="gallery_images" >}} 

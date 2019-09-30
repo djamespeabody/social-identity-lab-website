@@ -12,4 +12,4 @@ title = ""
   columns = "1"
 +++
 
-{{< gallery album="<img/gallery>" >}} 
+{{< gallery album="<gallery>" >}} 

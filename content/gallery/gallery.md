@@ -10,6 +10,11 @@ title = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+  
+[[gallery_item]]
+  album = "gallery_folder"
+  image = "dog_1.jpg"
+  
 +++
 Our Lab in Action!
 {{< gallery album="<gallery_folder>" >}} 

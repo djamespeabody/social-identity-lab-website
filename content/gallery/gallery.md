@@ -12,4 +12,4 @@ title = ""
   columns = "1"
 +++
 Our Lab in Action!
-{{< gallery album="<gallery>" >}} 
+{{< gallery album="<gallery_folder>" >}} 

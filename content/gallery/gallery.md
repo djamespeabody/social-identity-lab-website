@@ -20,5 +20,5 @@ title = ""
   image = "dog_2.jpg"
   
 +++
-Our Lab in Action!
+<h2>Our Lab in Action!</h2>
 {{< gallery album="<gallery_folder>" >}} 

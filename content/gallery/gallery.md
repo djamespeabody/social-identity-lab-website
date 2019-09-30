@@ -15,6 +15,10 @@ title = ""
   album = "gallery_folder"
   image = "dog_1.jpg"
   
+[[gallery_item]]
+  album = "gallery_folder"
+  image = "dog_2.jpg"
+  
 +++
 Our Lab in Action!
 {{< gallery album="<gallery_folder>" >}} 

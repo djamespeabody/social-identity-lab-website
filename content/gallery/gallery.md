@@ -13,7 +13,8 @@ title = ""
   
 [[gallery_item]]
   album = "gallery_folder"
-  image = "dog_1.jpg"
+  image = "content/gallery/gallery_images/dog_1.jpg"
+  caption = "Emma"
   
 [[gallery_item]]
   album = "gallery_folder"

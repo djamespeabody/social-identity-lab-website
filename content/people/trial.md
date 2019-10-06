@@ -3,14 +3,14 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 190  # Order that this section will appear.
+weight = 250  # Order that this section will appear.
 
 title = "Alumni"
 subtitle = ""
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["Grad Students"]
+user_groups = ["Alumni"]
 
 [design]
   # Show user's social networking links? (true/false)

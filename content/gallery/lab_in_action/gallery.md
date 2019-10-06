@@ -12,9 +12,5 @@ title = ""
   columns = "1"
 +++
 
-<p style="text-align:center;">The <b>Humboldt State Social Identity Lab</b> (SI Lab) researches the social identity and self-categorization processes which underlie social and political attitudes and behavior. We examine a range of intra and intergroup processes involved in social influence and intergroup relations, including minority influence, extremism, trends toward populism, and support for non-traditional and even authoritarian leadership. Dr. Amber Gaffney leads the Humboldt SI Lab. We also love nature and animals (see pictures of some of our honorary lab members).</p>
-
-
-
 <p style="text-align:center;"><h1>Our Lab in Action!</h1>
-{{< gallery album="gallery_images" >}}<p style="text-align:center;">
+{{< gallery album="gallery_images" >}}</p>

@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-# [[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+[[main]]
+  name = "Lab in Action"
+  url = "https://lucid-banach-66be79.netlify.com/gallery"
+  weight = 50
 
 [[main]]
   name = "Research"

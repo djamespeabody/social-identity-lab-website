@@ -17,7 +17,7 @@ subtitle = ""
 
 +++
 
-<p><a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a></p>
-<p><a href = "https://lucid-banach-66be79.netlify.com/research/#presentations">Recent Presentations</a><p>
-<p><a href = "https://lucid-banach-66be79.netlify.com/research/#studentpres">Student-led Oral and Poster Presentations</a><p>
-<p><a href = "https://lucid-banach-66be79.netlify.com/research/#affiliates">Labs We Are Affiliated With</a><p>
+<p style="text-align:center;"><a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a><br>
+<a href = "https://lucid-banach-66be79.netlify.com/research/#presentations">Recent Presentations</a><br>
+<a href = "https://lucid-banach-66be79.netlify.com/research/#studentpres">Student-led Oral and Poster Presentations</a><br>
+<a href = "https://lucid-banach-66be79.netlify.com/research/#affiliates">Labs We Are Affiliated With</a></p><br>

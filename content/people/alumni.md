@@ -3,7 +3,7 @@
 # This section displays people from `content/authors/` which belong to the `user_groups` below.
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 200  # Order that this section will appear.
 
@@ -42,10 +42,10 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[advanced]
+# [advanced]
  # Custom CSS. 
- css_style = ""
+ # css_style = ""
  
  # CSS class.
- css_class = ""
+ # css_class = ""
 +++

@@ -5,7 +5,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 250  # Order that this section will appear.
 
-title = "Alumni"
+title = ""
 subtitle = ""
 
 # List user groups to display.

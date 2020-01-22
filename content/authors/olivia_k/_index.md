@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: Social Psychology Ph.D. student at Texas Tech University
 
 # Organizations/Affiliations
 organizations:

@@ -52,5 +52,5 @@ user_groups:
 
 ---
 
-<h3>Thesis</a>
+<h3>Thesis</h3>
 <a href="https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1228&context=etd">Leadership and Identity Disruption</a>

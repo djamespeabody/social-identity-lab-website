@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = ""
@@ -17,45 +17,26 @@ subtitle = ""
 
 +++
 
-<p><strong>Clara Allen<strong><br>
+<p style="text-align:center"><strong>Clara Allen</strong><br>
 Associate Behavioral Health Clinician at Open Door Community Health Clinic</p>
 
-Jack Allen
+<p style="text-align:center"><strong>Jack Allen</strong><br>
+Lecturer at Humboldt State University & Family Medicine Residency Program Coordinator at Open Door Community Health Centers</p>
 
-Lecturer at Humboldt State University & Family Medicine Residency Program Coordinator at Open Door Community Health Centers 
+<p style="text-align:center"><strong>Isaac Huicochea</strong><br>
+Research Assistant for San Diego State Research Foundation</p>
 
-​
+<p style="text-align:center"><strong>Helena Littman</strong><br>
+Counseling Master's student at Humboldt State University</p>
 
-Isaac Huicochea
+<p style="text-align:center"><strong>Desiree Ryan</strong><br>
+Social psychology Ph.D. student at University of California, Santa Cruz</p>
 
-Research Assistant for San Diego State Research Foundation
+<p style="text-align:center"><strong>Josue Rodriguez</strong><br>
+Quantitative Psychology Ph.D. student at University of California, Davis</p>
 
-​
+<p style="text-align:center"><strong>Ben Skillman</strong><br>
+Lecturer at Humboldt State University</p>
 
-Helena Littman
-
-Counseling Master's student at Humboldt State University
-
-​
-
-Desiree Ryan
-
-Social psychology Ph.D. student at University of California, Santa Cruz
-
-​
-
-Josue Rodriguez
-
-Quantitative Psychology Ph.D. student at University of California, Davis
-
-​
-
-Ben Skillman
-
-Lecturer at Humboldt State University
-
-​
-
-Amanda Tarin
-
-Master's student at California State University, Fullerton
+<p style="text-align:center"><strong>Amanda Tarin</strong><br>
+Master's student at California State University, Fullerton</p>

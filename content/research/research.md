@@ -20,4 +20,4 @@ subtitle = ""
 <p style="text-align:center;"><a href = "https://lucid-banach-66be79.netlify.com/research/#publications">Recent Publications</a><br>
 <a href = "https://lucid-banach-66be79.netlify.com/research/#presentations">Recent Presentations</a><br>
 <a href = "https://lucid-banach-66be79.netlify.com/research/#studentpres">Student-led Oral and Poster Presentations</a><br>
-<a href = "https://lucid-banach-66be79.netlify.com/research/#affiliates">Labs We Are Affiliated With</a></p><br>
+<a href = "https://lucid-banach-66be79.netlify.com/research/#affiliates">Affiliate Labs</a></p><br>

@@ -10,22 +10,22 @@
 
 [[main]]
   name = "Lab in Action"
-  url = "https://lucid-banach-66be79.netlify.com/gallery"
+  url = "https://hsu-socialidentitylab.com/gallery"
   weight = 50
 
 [[main]]
   name = "Research"
-  url = "https://lucid-banach-66be79.netlify.com/research"
+  url = "https://hsu-socialidentitylab.com/research"
   weight = 30
 
 [[main]]
   name = "People"
-  url = "https://lucid-banach-66be79.netlify.com/people"
+  url = "https://hsu-socialidentitylab.com/people"
   weight = 40
 
 [[main]]
   name = "Joining the Lab"
-  url = "https://lucid-banach-66be79.netlify.com/join"
+  url = "https://hsu-socialidentitylab.com/join"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

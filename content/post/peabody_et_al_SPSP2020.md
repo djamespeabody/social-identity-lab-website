@@ -1,6 +1,6 @@
 ---
 title: My first blog post
-authors: ["james", ari_n]
+authors: ["james", "jeff_beaulieu", "gaffney"]
 summary: this is a test
 ---
 

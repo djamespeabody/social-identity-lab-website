@@ -4,6 +4,8 @@ authors: ["james", "jeff_beaulieu", "gaffney"]
 summary: This presentation featured an exploratory analysis examining political partisans' intergroup evaluations in relation to integrated threat and ideological extremity.
 ---
 
+<p><i>This blog post features the content of our poster presentation for the 2020 SPSP convention in New Orleans, Lousiana. It is formated to be read more easily on your computer or smartphone.</i></p>
+
 <h2>Background</h2>
 <ul>
 <li>During an election, political groups view the opposing party as a threat to their party’s platform, which is associated with negative emotional responses toward the opposition (Stephan & Renfro, 2002).</li>

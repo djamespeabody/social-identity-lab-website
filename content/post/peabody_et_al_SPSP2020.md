@@ -1,6 +1,6 @@
 ---
 title: Relationships between Extreme Ideology, Integrated Threat, and Outgroup Evaluations
-authors: [James Peabody, Jeff Beaulieu, Amber Gaffney]
+authors: [James Peabody, Jeff Beaulieu, Amber M. Gaffney]
 summary: This presentation featured an exploratory analysis examining political partisans' intergroup evaluations in relation to integrated threat and ideological extremity.
 ---
 

@@ -15,7 +15,8 @@ summary: This is a summary of our poster presentation at SPSP 2020.
 
 <h2>Method</h2>
 <h4>Participants</h4>
-<p>A sample of Republicans (<i>N</i> = 205) and Democrats (<i>N</i> = 211) was recruited using Amazon’s mechanical Turk system. The sample was recruited two weeks before the 2016 presidential election.
+<ul><li>A sample of Republicans (<i>N</i> = 205) and Democrats (<i>N</i> = 211) was recruited using Amazon’s mechanical Turk system.</li>
+<li>The sample was recruited two weeks before the 2016 presidential election.</li></ul>
 
 <h2>Measures</h2>
 <p><strong><i>Ideological Polarization</i></strong><br> 
@@ -39,7 +40,8 @@ EMBED IMAGE HERE
 <p>There was a significant interaction between ideological extremity and integrated threat, β = -.13, <i>sr<sup>2</sup></i> = .02, p = .005. For participants who felt more threatened by the outgroup, ideological extremity was negatively related to evaluations of the members of the opposing political party, β = -.25, <i>p</i> < .001. However, this relationship was not significant for participants who felt less threatened by the opposing political party, β = .01, <i>p</i> = .86.</p>
 
 <h2>Discussion</h2>
-This analysis suggests that Republicans and Democrats who have more extreme ideologies tend to also express more negative views regarding members of the opposition party when they feel threatened by that party. 
-It also suggests that there may not be a relationship between ideological extremity and evaluations of the opposition party when feelings of threat are low.
-These findings have implications for applied work seeking to reduce the intergroup conflict in American politics.
-Future work should seek to replicate these findings in a confirmatory context.
+<ul>
+<li>This analysis suggests that Republicans and Democrats who have more extreme ideologies tend to also express more negative views regarding members of the opposition party when they feel threatened by that party.</li>
+<li>It also suggests that there may not be a relationship between ideological extremity and evaluations of the opposition party when feelings of threat are low.</li>
+<li>These findings have implications for applied work seeking to reduce the intergroup conflict in American politics.</li>
+<li>Future work should seek to replicate these findings in a confirmatory context.</li></ul>

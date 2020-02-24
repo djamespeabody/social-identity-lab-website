@@ -22,25 +22,25 @@ summary: This is a summary of our poster presentation at SPSP 2020.
 <p><strong><i>Ideological Polarization</i></strong><br> 
 3-item measure assessing how polarized participants’ liberal or conservative beliefs are.</p>
 
-<img src = "files/spsp_2020_poster/ideology_scale.png">
+<img src = "img/spsp_2020_poster/ideology_scale.png">
 
 <p><strong><i>Threat</i></strong><br>
 5-item scale measuring feelings of threat from the opposing party (Stephan & Stephan, 2000). This scale contained items evaluating both realistic and symbolic threat.</p>
 
-<img src = "files/spsp_2020_poster/threat_scale.png">
+<img src = "img/spsp_2020_poster/threat_scale.png">
 
 <p><strong><i>Outgroup Evaluation</i></strong><br>
 5-item scale measuring participants feelings about the characteristics of members of the opposing party hold (Fiske et al., 2002).</p>
 
-<img src = "files/spsp_2020_poster/eval_scale.png">
+<img src = "img/spsp_2020_poster/eval_scale.png">
 
 <h2>Results</h2>
 <p>An exploratory analysis suggested that both integrated threat (β = -.28, <i>sr<sup>2</sup></i> = .07, <i>p</i> < .001) and ideological extremity (β = -.12, <i>sr<sup>2</sup></i> = .01, <i>p</i> = .02) are negatively related to outgroup evaluations, <i>F</i>(3,383) = 18.85, <i>R<sup>2</sup></i> = .129, <i>p</i> = .13.</p>
 
 <p>There was a significant interaction between ideological extremity and integrated threat, β = -.13, <i>sr<sup>2</sup></i> = .02, p = .005. For participants who felt more threatened by the outgroup, ideological extremity was negatively related to evaluations of the members of the opposing political party, β = -.25, <i>p</i> < .001. However, this relationship was not significant for participants who felt less threatened by the opposing political party, β = .01, <i>p</i> = .86.</p>
 
-<img src = "files/spsp_2020_poster/graphs.png">
-<img src = "files/spsp_2020_poster/results_table.png">
+<img src = "img/spsp_2020_poster/graphs.png">
+<img src = "img/spsp_2020_poster/results_table.png">
 
 
 <h2>Discussion</h2>

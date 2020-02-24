@@ -14,6 +14,6 @@ title = ""
 
 <p style="text-align:center;">The <b>Humboldt State Social Identity Lab</b> (SI Lab) researches the social identity and self-categorization processes which underlie social and political attitudes and behavior. We examine a range of intra and intergroup processes involved in social influence and intergroup relations, including minority influence, extremism, trends toward populism, and support for non-traditional and even authoritarian leadership. Dr. Amber Gaffney leads the Humboldt SI Lab. We also love nature and animals (see pictures of some of our honorary lab members).</p>
 
-Dr. Gaffney also co-organizers the Group Processes and Intergroup Relations Pre-conference at both the annual <a href = "http://meeting.spsp.org/preconferences/group-processes-and-intergroup-relations">SPSP convention</a> and the annual <a href = "http://sites.psych.ualberta.ca/easp-gpir-2020/">EASP conference</a> the SI Lab is instrumental in organizing and coordinating the conference.
+Dr. Gaffney also co-organizers the Group Processes and Intergroup Relations Pre-conference at both the annual <a href = "http://meeting.spsp.org/preconferences/group-processes-and-intergroup-relations">SPSP convention <i class="fas fa-external-link-alt"></i></a> and the annual <a href = "http://sites.psych.ualberta.ca/easp-gpir-2020/">EASP conference <i class="fas fa-external-link-alt"></i></a> the SI Lab is instrumental in organizing and coordinating the conference.
 
 <img src = "img/featured2.jpg">

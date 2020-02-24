@@ -4,7 +4,7 @@ authors: [James Peabody, Jeff Beaulieu, Amber M. Gaffney]
 summary: This is a summary of our poster presentation at SPSP 2020.
 ---
 
-<p><i>This blog post features the content of our poster presentation for the 2020 SPSP convention in New Orleans, Lousiana. It is formated to be read more easily on your computer or smartphone.</i></p>
+<p><i>This blog post features the content of our poster presentation for the 2020 SPSP convention in New Orleans, Lousiana. It is formated to be read more easily on your computer or smartphone. A PDF of the poster that was presented is available here</i></p>
 
 <h2>Background</h2>
 <p><ul>
@@ -22,7 +22,7 @@ summary: This is a summary of our poster presentation at SPSP 2020.
 <p><strong><i>Ideological Polarization</i></strong><br> 
 3-item measure assessing how polarized participants’ liberal or conservative beliefs are.</p>
 
-EMBED IMAGE HERE
+<img src = "files/spsp_2020_poster/ideology_scale">
 
 <p><strong><i>Threat</i></strong><br>
 5-item scale measuring feelings of threat from the opposing party (Stephan & Stephan, 2000). This scale contained items evaluating both realistic and symbolic threat.</p>

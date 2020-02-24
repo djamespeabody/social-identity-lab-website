@@ -11,24 +11,24 @@ summary: This is a summary of our poster presentation at SPSP 2020.
 <li>During an election, political groups view the opposing party as a threat to their party’s platform, which is associated with negative emotional responses toward the opposition (Stephan & Renfro, 2002).</li>
 <li>Political outgroups represent realistic and symbolic threats to the ingroup (Stephan & Renfro, 2002). Symbolic threat is characterized as a threat to ingroup while realistic threat is characterized as a threat to ingroup resources.</li>
 <li>Individuals with more extreme political ideology tend to be more willing to derogate members of opposing political groups (Chambers et al., 2013; van Proojin et al. 2015).</li>
-<li>The current work examines differences in the derogation of an outgroup with respect to feelings of intergroup threat and ideological extremity among American Republicans and Democrats.</li></p>
+<li>The current work examines differences in the derogation of an outgroup with respect to feelings of intergroup threat and ideological extremity among American Republicans and Democrats.</li></ul></p>
 
 <h2>Method</h2>
 <h4>Participants</h4>
 <p>A sample of Republicans (<i>N</i> = 205) and Democrats (<i>N</i> = 211) was recruited using Amazon’s mechanical Turk system. The sample was recruited two weeks before the 2016 presidential election.
 
 <h2>Measures</h2>
-<p><strong><i>Ideological Polarization</i><strong><br> 
+<p><strong><i>Ideological Polarization</i></strong><br> 
 3-item measure assessing how polarized participants’ liberal or conservative beliefs are.</p>
 
 EMBED IMAGE HERE
 
-<p><strong><i>Threat</i><strong><br>
+<p><strong><i>Threat</i></strong><br>
 5-item scale measuring feelings of threat from the opposing party (Stephan & Stephan, 2000). This scale contained items evaluating both realistic and symbolic threat.</p>
 
 EMBED IMAGE HERE
 
-<p><strong><i>Outgroup Evaluation</i><strong><br>
+<p><strong><i>Outgroup Evaluation</i></strong><br>
 5-item scale measuring participants feelings about the characteristics of members of the opposing party hold (Fiske et al., 2002).</p>
 
 EMBED IMAGE HERE

@@ -22,7 +22,7 @@ summary: This is a summary of our poster presentation at SPSP 2020.
 <p><strong><i>Ideological Polarization</i></strong><br> 
 3-item measure assessing how polarized participants’ liberal or conservative beliefs are.</p>
 
-<img src = "img/spsp_2020_poster/ideology_scale.png">
+<img src = "spsp_2020_poster/ideology_scale.png">
 
 <p><strong><i>Threat</i></strong><br>
 5-item scale measuring feelings of threat from the opposing party (Stephan & Stephan, 2000). This scale contained items evaluating both realistic and symbolic threat.</p>

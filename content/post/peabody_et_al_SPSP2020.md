@@ -1,10 +1,11 @@
 ---
 title: Relationships between Extreme Ideology, Integrated Threat, and Outgroup Evaluations
-authors: [James Peabody, Jeff Beaulieu, Amber M. Gaffney]
+authors: [James Peabody, Jeff Beaulieu, Jaz Mendez, Justin D. Hackett, Amber M. Gaffney]
 summary: This is a summary of our poster presentation at SPSP 2020.
 ---
 
-<p><i>This blog post features the content of our poster presentation for the 2020 SPSP convention in New Orleans, Lousiana. It is formated to be read more easily on your computer or smartphone. A PDF of the poster that was presented is available here</i></p>
+<p><i>This blog post features the content of our poster presentation for the 2020 SPSP convention in New Orleans, Lousiana. It is formated to be read more easily on your computer or smartphone. A PDF of the poster that was presented is <a href = "https://hsu-socialidentitylab.com/files/peabody_et_al_spsp2020_poster.pdf">
+available here</a></i></p>
 
 <h2>Background</h2>
 <p><ul>

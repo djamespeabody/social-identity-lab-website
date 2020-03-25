@@ -18,16 +18,21 @@ subtitle = ""
 +++
 
 <h3 style="text-align:center">Research Assistants</h3>
-<p style="text-align:center">Logan Ashworth<br>
-Jonathan Broadhurst<br>
-Haley Carter<br>
+<p style="text-align:center">
+Destiny Alcaraz<br>
+Logan Ashworth<br>
+Miranda Borges<br>
 Delilah Cervates<br>
 Enicia Fegurgur<br>
 Devin Flynn<br>
 Aaron Foster<br>
+Jeff Frederick<br>
 Zoe Griffith<br>
+Lorenzo Mejia<br>
+Rodrigo Mendez<br>
 Jaz Mendez<br>
 Adrian Lopez<br>
 Heather Reynolds<br>
 Jamie Rawlins<br>
-Brandon Upson</p>
+Paola Valdovinos-Rojas<br>
+Andrea Wilson<br></p>

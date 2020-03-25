@@ -23,6 +23,9 @@ Associate Behavioral Health Clinician at Open Door Community Health Clinic</p>
 <p style="text-align:center"><strong>Jack Allen</strong><br>
 Lecturer at Humboldt State University & Family Medicine Residency Program Coordinator at Open Door Community Health Centers</p>
 
+<p style="text-align:center"><strong>Haley Carter</strong><br>
+Counseling Master's student at Humboldt State University</p>
+
 <p style="text-align:center"><strong>Isaac Huicochea</strong><br>
 Research Assistant for San Diego State Research Foundation</p>
 
@@ -37,6 +40,9 @@ Quantitative Psychology Ph.D. student at University of California, Davis</p>
 
 <p style="text-align:center"><strong>Ben Skillman</strong><br>
 Lecturer at Humboldt State University</p>
+
+<p style="text-align:center"><strong>Tamera Stapp</strong><br>
+Special Education Moderate to Severe Teacher with the Oceanside Unified School District at Stuart Mesa Elementary School</p>
 
 <p style="text-align:center"><strong>Amanda Tarin</strong><br>
 Master's student at California State University, Fullerton</p>

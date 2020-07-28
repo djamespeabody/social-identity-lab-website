@@ -3,7 +3,7 @@
 name: Paola Valdovinos-Rojas
 
 # Username (this should match the folder name)
-authors: paola_v
+authors:
 - admin
 
 # Is this the primary user of the site?

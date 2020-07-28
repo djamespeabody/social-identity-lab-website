@@ -4,7 +4,7 @@ name: Philip Taylor
 
 # Username (this should match the folder name)
 authors:
-- philip_t
+- 
 
 # Is this the primary user of the site?
 superuser: true

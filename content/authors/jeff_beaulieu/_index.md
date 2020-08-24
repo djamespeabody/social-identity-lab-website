@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Design Researcher at Bank of the West
 
 # Organizations/Affiliations
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include...
 
 
 # Social/Academic Networking
@@ -38,12 +38,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Alumni
 
 ---
+Jeff is now a design researcher at Bank of the West.
 
 <h3>Thesis</h3>
-Weight Loss in Groups:  How Leaders and Uncertainty Influence Weight Loss Intentions.
+Weight Loss in Groups:  How Leaders and Uncertainty Influence Weight Loss Intentions
 
 <h3>Research Interests</h3>
 I am interested in social identity, leadership, uncertainty, group identification, and public health.  In my research, I am examining the preference for different forms of prototypical leadership when people experience uncertainty and how this affects weight loss intentions and health behaviors.  With my research I hope to create more effective interventions for a variety of public health issues.

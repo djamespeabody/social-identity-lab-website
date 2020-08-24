@@ -26,6 +26,9 @@ Lecturer at Humboldt State University & Family Medicine Residency Program Coordi
 <p style="text-align:center"><strong>Haley Carter</strong><br>
 Counseling Master's student at Humboldt State University</p>
 
+<p style="text-align:center"><strong>Zoe Griffith</strong><br>
+Psychology Ph.D. Student an University of California, Merced</p>
+
 <p style="text-align:center"><strong>Isaac Huicochea</strong><br>
 Research Assistant for San Diego State Research Foundation</p>
 

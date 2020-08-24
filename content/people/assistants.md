@@ -27,7 +27,6 @@ Enicia Fegurgur<br>
 Devin Flynn<br>
 Aaron Foster<br>
 Jeff Frederick<br>
-Zoe Griffith<br>
 Lorenzo Mejia<br>
 Rodrigo Mendez<br>
 Jaz Mendez<br>

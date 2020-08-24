@@ -29,7 +29,7 @@ bio: My work is focused on identifying psychobiological indicators in our behavi
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:Logan.Ashworth@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ashworth@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

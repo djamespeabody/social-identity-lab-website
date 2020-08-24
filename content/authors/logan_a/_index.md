@@ -14,12 +14,11 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My work is focused on identifying psychobiological indicators in our behaviors. I study predominantly: learning and memory, facial  processing, identity continuity, animal models. and the neurobiology of emotions.
-
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 
 # Social/Academic Networking
@@ -29,7 +28,7 @@ bio: My work is focused on identifying psychobiological indicators in our behavi
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ashworth@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:dae202@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -54,3 +53,5 @@ My work is focused on identifying psychobiological indicators in our behaviors. 
 
 <h3>Recent Work</h3>
 Ashworth, L.F., Rodriguez, J., Peabody, J., Tarin, A., Byers, S.M., Sherburne, B., Wagoner, J.M., & Gaffney, A.M. (2019, April). <i>Exploratory analyses of the self and group: Entitativity</i>. Poster session presented at the Western Psychological Association Conference. Pasadena, CA.
+
+

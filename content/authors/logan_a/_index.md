@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include learning and memory, facial  processing, identity continuity, animal models. and the neurobiology of emotions.
 
 
 # Social/Academic Networking

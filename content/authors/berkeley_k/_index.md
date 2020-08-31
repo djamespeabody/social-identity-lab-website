@@ -45,6 +45,7 @@ user_groups:
 - Graduate Students
 
 ---
+Berkeley is also currently a Grants and Contracts Analyst for Asia at the nonprofit organization <a href="https://internews.org">Internews</a>.
 
 <h3>Thesis</h3>
 Change-Oriented Leadership in CSU Police Departments and Past and Future Identities.

@@ -29,7 +29,6 @@ Jeff Frederick<br>
 Adrian Lopez<br>
 Lorenzo Mejia<br>
 Rodrigo Mendez<br>
-Jaz Mendez<br>
 Leta Perriello<br>
 Heather Reynolds<br>
 Jamie Rawlins<br>

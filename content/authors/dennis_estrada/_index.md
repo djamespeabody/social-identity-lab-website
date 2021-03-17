@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:

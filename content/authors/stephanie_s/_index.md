@@ -53,4 +53,4 @@ Not Guilty by Reason of Insanity Defense comparing African American and White De
 I am interested in research that addresses social psychological processes that underpin discrimination in the legal system. I am interested in how bias can influence courtroom decision making and the theoretical framework behind it.
 
 <h3>Recent Work</h3>
-<p style="margin-left: 60px; text-indent: -60px;">Souter, S. S., Sherburne, B., Cruz, A. N., Gaffney, A. M., Hackett D. J. (2019, February). <i>Dehumanization of undocumented families and why news outlet matters</i>. Poster session presented at the annual meeting of the Society for Personality and Social Psychology, Portland, OR.</p>
+<p style="margin-left: 60px; text-indent: -60px;">Souter, S. S., Gardner, S. E., Valdovinos, P. E., & Gaffney, A. M.. (2021, February). <i>The Plandemic: How support for Trump and self-uncertainty results in motivation to identify with conspiracy groups online</i>. Poster session presented at the annual meeting of the Society for Personality and Social Psychology Group Processes and Intergroup Relations preconference, Virtual.</p>

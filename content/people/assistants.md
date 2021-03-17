@@ -19,17 +19,17 @@ subtitle = ""
 
 <h3 style="text-align:center">Research Assistants</h3>
 <p style="text-align:center">
-Destiny Alcaraz<br>
-Miranda Borges<br>
-Delilah Cervates<br>
-Enicia Fegurgur<br>
-Devin Flynn<br>
-Aaron Foster<br>
-Jeff Frederick<br>
-Adrian Lopez<br>
-Lorenzo Mejia<br>
-Rodrigo Mendez<br>
 Leta Perriello<br>
-Heather Reynolds<br>
-Jamie Rawlins<br>
-Andrea Wilson<br></p>
+Aaron Foster<br>
+Adrian Lopez<br>
+Delilah Cervantes<br>
+Devin Flynn<br>
+Enicia Fegurgur<br>
+Jamiee Rawlins<br>
+Rodrigo Mendez<br>
+Miranda Borges<br>
+Jeff Frederick<br>
+Francesca Messina<br>
+Zoe Burg<br>
+Ingrid Zulgis<br>
+Samantha Gardner<br></p>

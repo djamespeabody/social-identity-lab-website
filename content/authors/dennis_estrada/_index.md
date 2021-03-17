@@ -52,6 +52,6 @@ Supporting Extremist Governments: The Result of Uncertainty?
 Currently, my research interests focus on uncertainty, social identity, prejudice, and social and political issues. Given the current socio-political climate, I am interested in the researching the rise of extremist groups such as the Alt-Right, as well as the resurgence of old extremist groups such as the KKK. I have a passion for social change and would love to apply my future work to combating extremism and extremist groups.
 
 <h3>Recent Work</h3>
-<p style="margin-left: 60px; text-indent: -60px;">Estrada, D., Byers, S. M., Gaffney, A. M., & Jaurique, A. (2017, June). <i>The effects of relative deprivation and ambivalent sexism on voter preferences</i>. Poster session presented at the annual meeting of the International Society for Human Ethology, Boise, ID.</p>
+<p style="margin-left: 60px; text-indent: -60px;">Souter, S., Beaulieu, J., Estrada, D.A., & Gaffney, A.M. (2020, September). <i>Uncertainty reduction: From benign reassurance to violence endorsement.</i>. Oral presentation at the 2020 meeting of Western Psychological Association, San Francisco, CA.</p>
 
 

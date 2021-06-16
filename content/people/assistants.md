@@ -22,10 +22,9 @@ subtitle = ""
 Leta Perriello<br>
 Aaron Foster<br>
 Adrian Lopez<br>
-Delilah Cervantes<br>
 Devin Flynn<br>
 Enicia Fegurgur<br>
-Jamiee Rawlins<br>
+Sam Lilienthal<br>
 Rodrigo Mendez<br>
 Miranda Borges<br>
 Jeff Frederick<br>

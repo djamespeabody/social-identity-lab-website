@@ -24,7 +24,7 @@ Associate Behavioral Health Clinician at Open Door Community Health Clinic</p>
 Lecturer at Humboldt State University & Family Medicine Residency Program Coordinator at Open Door Community Health Centers</p>
 
 <p style="text-align:center"><strong>Zoe Griffith</strong><br>
-Psychology Ph.D. Student an University of California, Merced</p>
+Health Psychology Ph.D. Student an University of California, Merced</p>
 
 <p style="text-align:center"><strong>Isaac Huicochea</strong><br>
 Research Assistant for San Diego State Research Foundation</p>
@@ -50,5 +50,4 @@ Substance Abuse Counselor I at Aegis Treatment Centers</p>
 <p style="text-align:center"><strong>Delilah Cervantes</strong><br>
 Program Assistant/Health Information Specialist for the Ventura Wrap/FURS programs at Seneca Family of Agencies</p>
   
-<p style="text-align:center"><strong>Zoe Griffith</strong><br>
- Ph.D. Student of Health Psychology at University of California, Merced</p> 
+

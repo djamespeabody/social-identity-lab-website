@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Consultant Research Analyst Associate for Cambia Health Solutions
+role: Programmer Analyst for Cambia Health Solutions
 
 # Organizations/Affiliations
 organizations:

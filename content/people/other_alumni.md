@@ -43,3 +43,12 @@ Special Education Moderate to Severe Teacher with the Oceanside Unified School D
 
 <p style="text-align:center"><strong>Amanda Tarin</strong><br>
 Master's student at California State University, Fullerton</p>
+
+<p style="text-align:center"><strong>Jamiee Rawlins</strong><br> 
+Substance Abuse Counselor I at Aegis Treatment Centers</p>
+
+<p style="text-align:center"><strong>Delilah Cervantes</strong><br>
+Program Assistant/Health Information Specialist for the Ventura Wrap/FURS programs at Seneca Family of Agencies</p>
+  
+<p style="text-align:center"><strong>Zoe Griffith</strong><br>
+ Ph.D. Student of Health Psychology at University of California, Merced</p> 

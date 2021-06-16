@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Applied Cognition PhD student at Oregon State University
+role: Applied Cognition Ph.D. student at Oregon State University
 
 # Organizations/Affiliations
 organizations:

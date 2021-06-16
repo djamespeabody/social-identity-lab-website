@@ -24,7 +24,7 @@ Associate Behavioral Health Clinician at Open Door Community Health Clinic</p>
 Lecturer at Humboldt State University & Family Medicine Residency Program Coordinator at Open Door Community Health Centers</p>
 
 <p style="text-align:center"><strong>Zoe Griffith</strong><br>
-Health Psychology Ph.D. Student an University of California, Merced</p>
+Health Psychology Ph.D. Student at University of California, Merced</p>
 
 <p style="text-align:center"><strong>Isaac Huicochea</strong><br>
 Research Assistant for San Diego State Research Foundation</p>

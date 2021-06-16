@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Applied Cognition PhD student at Oregon State University
 
 # Organizations/Affiliations
 organizations:
@@ -40,7 +40,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Alumni
 
 ---
 
@@ -49,6 +49,3 @@ Papal Support for Women Under Uncertainty: Changing Perceptions of Women in Reli
 
 <h3>Research Interests</h3>
 I’m interested in researching stereotype content, prejudice, attitude change, and leadership. In my research, I attempt to merge these interests by examining marginalized groups in a leadership context in an attempt to improve perceptions of their leadership efficacy and support – two elements which are paramount to their success.</p>
-
-<h3>Recent Work</h3>
-<p style="margin-left: 60px; text-indent: -60px;">Byers S. M., Estrada D., Sherburne, B., Gaffney, A. M., & Hackett, J. D. (2018, July). <i>Trumping group threat: The relationship between threat, conservatism, and political zealotry during the 2016 U.S presidential campaign season</i>. Poster session presented at the annual meeting of the International Society of Political Psychology, San Antonio, TX.</p>

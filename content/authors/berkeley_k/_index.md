@@ -54,4 +54,4 @@ Change-Oriented Leadership in CSU Police Departments and Past and Future Identit
 My work focuses on organizational leadership, group identification, and self and social categorization. I aim to work with local government and teach at the local community college. I hope to create positive and lasting changes within the local Eureka community.
 
 <h3>Recent Work</h3>
-Kijsriopas, B., Syfers, L., Gaffney, A. M., & Rast D. E., III. (2017, September). Leadership under uncertainty: A leadership evaluating officer trust and support for departmental leadership. Poster session presented at the annual meeting of the Society for Police and Criminal Psychology, San Diego, CA.
+Kijsriopas, B., Syfers, L., Gaffney, A. M., & Rast D. E., III. (2017, September). Leadership under uncertainty: A leadership evaluating <i>officer trust and support for departmental leadership.</i> <i>Poster session presented at the annual meeting of the Society for Police and Criminal Psychology, San Diego, CA.</i>

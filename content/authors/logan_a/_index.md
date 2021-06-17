@@ -52,6 +52,6 @@ Endocrinological markers of spatial learning in Zebrafish (<i>Danio rerio</i>)
 My work is focused on identifying psychobiological indicators in our behaviors. I study predominantly: learning and memory, facial  processing, identity continuity, animal models. and the neurobiology of emotions. My goal is to contribute in building the phenomenological net by concisely bridging competitive theories in cognitive neuroscience.
 
 <h3>Recent Work</h3>
-Ashworth, L.F., Rodriguez, J., Peabody, J., Tarin, A., Byers, S.M., Sherburne, B., Wagoner, J.M., & Gaffney, A.M. (2019, April). <i>Exploratory analyses of the self and group: Entitativity</i>. Poster session presented at the Western Psychological Association Conference. Pasadena, CA.
+<p style="margin-left: 60px; text-indent: -60px;">Ashworth, L.F., Rodriguez, J., Peabody, J., Tarin, A., Byers, S.M., Sherburne, B., Wagoner, J.M., & Gaffney, A.M. (2019, April). <i>Exploratory analyses of the self and group: Entitativity</i>. Poster session presented at the Western Psychological Association Conference. Pasadena, CA.</p>
 
 

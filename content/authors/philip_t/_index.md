@@ -50,5 +50,5 @@ user_groups:
 My research interests are rooted in the field of environmental psychology. I am interested in investigating how one's social identity influences how they engage with the natural environment and/or pro-environmental behavior. I am interested in understanding how minority groups or those with marginalized identities engage with their public lands including national and state parks, as it is not uncommon for individuals to experience environmental racism and homophobia in these spaces. I am also interested in exploring how a strong association with the natural environment influences one to create and define their place in society.
 
 <h3>Recent Work</h3>
-Kolker, Z.M., Taylor, P.C. & Galupo, M.P. “As a Sort of Blanket Term”: Qualitative Analysis of Queer Sexual Identity Marking. Sexuality & Culture (2019). <a href="https://doi.org/10.1007/s12119-019-09686-4
-">https://doi.org/10.1007/s12119-019-09686-4</a>
+<p style="margin-left: 60px; text-indent: -60px;">Kolker, Z.M., Taylor, P.C. & Galupo, M.P. “As a Sort of Blanket Term”: <i>Qualitative Analysis of Queer Sexual Identity Marking.</i> Sexuality & Culture (2019). <a href="https://doi.org/10.1007/s12119-019-09686-4
+">https://doi.org/10.1007/s12119-019-09686-4</a></p>

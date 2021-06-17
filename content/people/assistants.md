@@ -19,16 +19,15 @@ subtitle = ""
 
 <h3 style="text-align:center">Research Assistants</h3>
 <p style="text-align:center">
-Leta Perriello<br>
-Aaron Foster<br>
-Adrian Lopez<br>
-Devin Flynn<br>
-Enicia Fegurgur<br>
-Sam Lilienthal<br>
-Rodrigo Mendez<br>
 Miranda Borges<br>
+Enicia Fegurgur<br>
+Devin Flynn<br>
+Aaron Foster<br>
 Jeff Frederick<br>
+Samantha Gardner<br>
+Sam Lilienthal<br>
+Adrian Lopez<br>
+Rodrigo Mendez<br>
 Francesca Messina<br>
-Zoe Burg<br>
-Ingrid Zulgis<br>
-Samantha Gardner<br></p>
+Ingrid Zulgis<br></p>
+

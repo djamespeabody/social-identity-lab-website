@@ -29,7 +29,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zoegroyer@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:amw188@humboldt.edu'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -47,4 +47,4 @@ user_groups:
 ---
 
 <h3>Research Interests</h3>
-My research interests are rooted in the fields of social neuroscience and cognitive psychology. I am interested in investigating how social cohesion in groups influences stress responses and how they can lead to pathological anxieties. I am interested in the neuropsychology of human behavior and social perceptions, particularly understanding how these factors impact vulnerable group members, like pregnant women and children. I also have interests in how uncertainty in one’s social identity influences perceptions of motherhood and child-rearing. I am committed to using interdisciplinary approaches in my research and hope to contribute to community and women’s health policy decisions.
+ I am interested in studying group processes and intergroup relations, specifically on human-animal relations. I want to explore how these relationships relate to a broader understanding of human nature, using social psychology.

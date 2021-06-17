@@ -47,4 +47,4 @@ user_groups:
 ---
 
 <h3>Research Interests</h3>
-My research interests include social identity and extremism in politics. I am interested in the political divide that we see in today's environment and how that affects social identity and social and political issues. I am also interested in stereotype threat and how that affects marginalized communities, like LGTBQ+. 
+My research interests include social identity and extremism in politics. I am interested in the political divide that we see in today's environment and how that affects social identity as well as social and political issues. I am also interested in stereotype threat and how that affects marginalized communities, like LGTBQ+. 

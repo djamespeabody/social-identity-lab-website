@@ -19,14 +19,10 @@ subtitle = ""
 
 <h3 style="text-align:center">Research Assistants</h3>
 <p style="text-align:center">
-Miranda Borges<br>
 Enicia Fegurgur<br>
 Devin Flynn<br>
 Aaron Foster<br>
 Jeff Frederick<br>
 Sam Lilienthal<br>
-Adrian Lopez<br>
-Rodrigo Mendez<br>
-Francesca Messina<br>
 Ingrid Zulgis<br></p>
 

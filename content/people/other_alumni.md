@@ -49,5 +49,7 @@ Substance Abuse Counselor I at Aegis Treatment Centers</p>
 
 <p style="text-align:center"><strong>Delilah Cervantes</strong><br>
 Program Assistant/Health Information Specialist for the Ventura Wrap/FURS programs at Seneca Family of Agencies</p>
-  
+
+<p style="text-align:center"><strong>Shelley Magallanes</strong><br>
+Graduate Student of Counseling Psychology at Humboldt State University</p>
 

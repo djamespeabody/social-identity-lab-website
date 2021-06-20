@@ -24,7 +24,6 @@ Enicia Fegurgur<br>
 Devin Flynn<br>
 Aaron Foster<br>
 Jeff Frederick<br>
-Samantha Gardner<br>
 Sam Lilienthal<br>
 Adrian Lopez<br>
 Rodrigo Mendez<br>

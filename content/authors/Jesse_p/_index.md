@@ -47,4 +47,4 @@ user_groups:
 ---
 
 <h3>Research Interests</h3>
-I am interested in researching minority influence, compliance, and conversion processes. Specifically, how does musical political propaganda affect peoples' attitudinal networks depending on the message source? My other research interests include inter/intra-group processes, leadership, uncertainty, and extremism.
+I am interested in examining how music, when linked to speicific social identities, may be used as a political tool. Specifically, I am interested in combining these ideas with work on minority influence. My other research interests include inter/intra-group processes, leadership, uncertainty, and extremism.

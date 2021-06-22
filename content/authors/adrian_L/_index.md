@@ -51,6 +51,4 @@ I am interested in social identity, social comparison and disidentification in t
 
 
 <h3>Recent Work</h3>
-<p style="margin-left: 60px; text-indent: -60px;">Estrada, D., Neely, A., Carter, H., Lopez, A., Hackett J. D., & Gaffney, A. M. (2020, 
-
-February). <i>Follow or Fight: The Influence of group norms on leader support and collective action.</i>.Poster session at the annual meeting of the Society for Personality and Social Psychology, New Orleans, LA.</p>
+<p style="margin-left: 60px; text-indent: -60px;">Estrada, D., Neely, A., Carter, H., Lopez, A., Hackett J. D., & Gaffney, A. M. (2020, February).<i>Follow or Fight: The Influence of group norms on leader support and collective action.</i>.Poster session at the annual meeting of the Society for Personality and Social Psychology, New Orleans, LA.</p>

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: Counselor at Aegis Treatment Centers
 
 # Organizations/Affiliations
 organizations:

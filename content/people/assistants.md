@@ -19,10 +19,19 @@ subtitle = ""
 
 <h3 style="text-align:center">Research Assistants</h3>
 <p style="text-align:center">
+Grace Belt<br>
 Enicia Fegurgur<br>
 Devin Flynn<br>
 Aaron Foster<br>
 Jeff Frederick<br>
+Samantha Gardner<br>
+Rachael Kee<br>
+Radhika Kothari<br>
 Sam Lilienthal<br>
+Alicia Martin<br>
+Heather Reynolds<br>
+Edwin Rosales-Vijil<br>
+Brian Taylor<br>
+Kira Trinity<br>
 Ingrid Zulgis<br></p>
 

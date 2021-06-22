@@ -48,4 +48,4 @@ user_groups:
 
 
 <h3>Research Interests</h3>
-My favorite topics for research are the impact of lifestyle on social identity, the relationship between social identity and gender orientation. Also, investigating the relationship between the formation of social identity and sexual identity (formation of social identity and sexual orientation from the limitations of society, the impact of society on it - sexual identity disorders).
+My favorite topics for research are the impact of lifestyle on social identity, the relationship between social identity and gender orientation. Also, investigating the relationship between the formation of social identity and sexual identity (formation of social identity and sexual orientation from the limitations of society).

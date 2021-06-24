@@ -29,6 +29,7 @@ Sage Gill<br>
 Rachael Kee<br>
 Radhika Kothari<br>
 Sam Lilienthal<br>
+Michael Loza<br>
 Alicia Martin<br>
 Heather Reynolds<br>
 Edwin Rosales-Vijil<br>

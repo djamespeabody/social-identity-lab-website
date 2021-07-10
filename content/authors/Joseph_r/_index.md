@@ -47,4 +47,4 @@ user_groups:
 ---
 
 <h3>Research Interests</h3>
-Currently, I am interested in examining the role played by self-uncertainty and social identity in shaping group processes such as political polarization, political extremism, and leadership. Outside of the political sphere of social psychology, I am interested in exploring the relationship between identity uncertainty and risk-taking behavior (namely substance abuse).
+I am interested in examining the role played by self-uncertainty and social identity in shaping group processes such as political polarization, political extremism, and leadership. Outside of the political sphere of social psychology, I am interested in exploring the relationship between identity uncertainty and risk-taking behavior (namely substance abuse).

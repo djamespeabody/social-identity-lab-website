@@ -16,18 +16,14 @@ subtitle = ""
   columns = "2"
 
 +++
+<p style="margin-left: 60px; text-indent: -60px;">Crano, W. D., Alvaro, E. M, & Gaffney, A. M. (2019, June). <i>Motivated mis-remembering of ingroup and outgroup source information</i>. 
+Oral presentation at the 2019 EASP meeting on Intergroup Communications, Bologna, Italy.</p>
 
 <p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., Sherburne, B., Rast, D. E. III, & Syfers, L. (2019, June). 
 <i>Transforming group norms through the communication of election information</i>. 
 Oral presentation at the 2019 EASP meeting on Intergroup Communications, Bologna, Italy.</p>
 
-<p style="margin-left: 60px; text-indent: -60px;">Sherburne, B., Gaffney, A. M., & Gardikiotis, A. (2019, June). <i>Violent opposition in response to policy that blurs intergroup boundaries</i>. 
-Oral presentation at the 2019 EASP meeting on Intergroup Communications, Bologna, Italy.</p>
-
-<p style="margin-left: 60px; text-indent: -60px;">Crano, W. D., Alvaro, E. M, & Gaffney, A. M. (2019, June). <i>Motivated mis-remembering of ingroup and outgroup source information</i>. 
-Oral presentation at the 2019 EASP meeting on Intergroup Communications, Bologna, Italy.</p>
-
-<p style="margin-left: 60px; text-indent: -60px;">A. M., Rast, D. E. III, & Hogg, M. A. (2018, June). <i>The rise of non-normative and extreme leaders through rhetorical strategies</i>. 
+<p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., Rast, D. E. III, & Hogg, M. A. (2018, June). <i>The rise of non-normative and extreme leaders through rhetorical strategies</i>. 
 Invited talk at the 16th International Conference on Language & Social Psychology (ICLASP). Edmonton, Canada.</p>
 
 <p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., Sherburne*, B. M., & Syfers*, L. (2018, May). 
@@ -54,8 +50,11 @@ Invited talk at the 16th International Conference on Language & Social Psycholog
 <p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M. (2017, April). 
 <i>Social identity and political psychology</i>. Invited address as Distinguished Speaker at the annual meeting of the Western Psychological Association, Sacramento, CA.</p>
 
+<p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., Jung, J., Crano, W. D., & Hogg, M. A. (2016, November). 
+<i>Contexts and conditions of outgroup influence</i>. Invited address at the European Association of Social Psychology Small Group Conference in Honor of Serge Moscovici, Paris, France.</p>
+
 <p style="margin-left: 60px; text-indent: -60px;">Hackett, J. D., Gaffney, A. M., & Case K. (2017, January). 
 <i>Non-religious identities and global citizenship</i>. Poster session presented at the annual meeting of the Society for Personality and Social Psychology, San Antonio, TX.</p>
 
-<p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., Jung, J., Crano, W. D., & Hogg, M. A. (2016, November). 
-<i>Contexts and conditions of outgroup influence</i>. Invited address at the European Association of Social Psychology Small Group Conference in Honor of Serge Moscovici, Paris, France.</p>
+<p style="margin-left: 60px; text-indent: -60px;">Sherburne, B., Gaffney, A. M., & Gardikiotis, A. (2019, June). <i>Violent opposition in response to policy that blurs intergroup boundaries</i>. 
+Oral presentation at the 2019 EASP meeting on Intergroup Communications, Bologna, Italy.</p>

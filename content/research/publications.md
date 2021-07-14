@@ -16,6 +16,9 @@ subtitle = ""
   columns = "2"
 
 +++
+<p style="margin-left: 60px; text-indent: -60px;">Bligh, M. C., Casad, B. J., Schlehofer, M. M., & Gaffney, A. M. (2012). Competent enough, but would you vote for her? Gender stereotypes, political affiliation, and media influences on perceptions of women senators.  <i>Journal of Applied Social Psychology, 42</i>, 560-597.</p>
+
+<p style="margin-left: 60px; text-indent: -60px;">Crwys, T., Gaffney, A. M., & Skipper, Y. (2017). <i>Uncertainty in transition: The influence of group cohesion on learning</i>. In K. Mavor, M. Platow, & Bizumic, B. (Eds.), Self, Social Identity, and Education. New York: Psychology Press.</p>
 
 <p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., & La Vogue, N. (forthcoming). <i>Dogmatism and need for closure</i>. In M. A. Hogg (Ed.), The Oxford Encyclopedia of Social Psychology.  New York: Oxford University Press.</p> 
 
@@ -27,30 +30,30 @@ subtitle = ""
 
 <p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., Rast, D. E., III, & Hogg, M. A. (in press). Uncertainty and influence: The advantages (and disadvantages) of being atypical. <i>Journal of Social Issues</i>.</p>
 
-<p style="margin-left: 60px; text-indent: -60px;">Hogg, M. A. & Gaffney, A. M. (in press). <i>Group processes and intergroup relations</i>. In S. Ghetti (Ed.), The Stevens’ handbook of experimental psychology and cognitive neuroscience. Volume 3: Developmental and social psychology. New York: Wiley.</p>
-
-<p style="margin-left: 60px; text-indent: -60px;">Rast, D. E., III, Gaffney, A. M., & Yang, L. (2018). The impact of stereotype content on intergroup uncertainty and interactions. <i>Journal of Social Psychology</i>.</p>
-
-<p style="margin-left: 60px; text-indent: -60px;">Hackett, J. D., Gaffney, A. M., & Data, L. (2018). Intergroup anxiety and political loss: The buffering effects of believing in the open Marketplace of Ideas and openness to diverse political discussions. <i>Journal of Applied Social Psychology</i>.</p>
-
 <p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., & Hogg, M. A. (2017). <i>Social identity and social influence</i>. In S. Harkins, K. D. Williams, & J. Burger (Eds.), The Oxford handbook of social influence (pp. 207-223). New York: Oxford University Press.</p> 
-
-<p style="margin-left: 60px; text-indent: -60px;">Hohman, Z. P., Gaffney, A. M., & Hogg, M. A. (2017). Who am I if I am not like my group? Self-uncertainty and feeling peripheral in a group. <i>Journal of Experimental Social Psychology, 72</i>, 125-132.</p>
-
-<p style="margin-left: 60px; text-indent: -60px;">Crwys, T., Gaffney, A. M., & Skipper, Y. (2017). <i>Uncertainty in transition: The influence of group cohesion on learning</i>. In K. Mavor, M. Platow, & Bizumic, B. (Eds.), Self, Social Identity, and Education. New York: Psychology Press.</p>
 
 <p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M. , Tomory, J. J., & Gold, G. J. (2014). Consequences for reportorial opinion in news media. <i>Psychology of Popular Media Culture</i>.</p>
 
-<p style="margin-left: 60px; text-indent: -60px;">Hogg, M. A., & Gaffney, A. M. (2014). <i>Prototype-based social comparisons within groups: Constructing social identity to reduce self-uncertainty</i>. In Z. Križan & F. X. Gibbons (Eds.). Communal functions of social comparison (pp. 145-174). New York: Cambridge University Press.</p>
-
 <p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., Rast, D. E. III, Hacket, J. D., & Hogg, M. A. (2014). Further to the right: Uncertainty, political polarization, and the American Tea Party movement. <i>Social Influence, 9</i>, 272-288.</p>
-
-<p style="margin-left: 60px; text-indent: -60px;">Rast, D. E. III, Gaffney, A. M., & Hogg, M. A. (2013). <i>The tyranny of normative distance: A social identity account of the exercise of power by remote leaders</i>. In M. C. Bligh & R. E. Riggio (Eds.), Exploring distance in leader-follower relationships: When near is far and far is near (pp. 215-240). New York: Routledge.</p>
 
 <p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M. & Hogg, M. (2012). <i>Group processes</i>. In W. Bainbridge (Ed.), Leadership in science and technology: A reference handbook. (pp. 131-140). Thousand Oaks, CA: SAGE</p>
 
+<p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., Hogg, M. A., Cooper, J., & Stone, J. (2012). Witness to hypocrisy: Reacting to ingroup hypocrites in the presence of others. <i>Social Influence, 7</i>, 98-112.</p>
+
+<p style="margin-left: 60px; text-indent: -60px;">Hackett, J. D., Gaffney, A. M., & Data, L. (2018). Intergroup anxiety and political loss: The buffering effects of believing in the open Marketplace of Ideas and openness to diverse political discussions. <i>Journal of Applied Social Psychology</i>.</p>
+
+<p style="margin-left: 60px; text-indent: -60px;">Hogg, M. A., & Gaffney, A. M. (2014). <i>Prototype-based social comparisons within groups: Constructing social identity to reduce self-uncertainty</i>. In Z. Križan & F. X. Gibbons (Eds.). Communal functions of social comparison (pp. 145-174). New York: Cambridge University Press.</p>
+
+<p style="margin-left: 60px; text-indent: -60px;">Hogg, M. A. & Gaffney, A. M. (in press). <i>Group processes and intergroup relations</i>. In S. Ghetti (Ed.), The Stevens’ handbook of experimental psychology and cognitive neuroscience. Volume 3: Developmental and social psychology. New York: Wiley.</p>
+
+<p style="margin-left: 60px; text-indent: -60px;">Hohman, Z. P., Gaffney, A. M., & Hogg, M. A. (2017). Who am I if I am not like my group? Self-uncertainty and feeling peripheral in a group. <i>Journal of Experimental Social Psychology, 72</i>, 125-132.</p>
+
+<p style="margin-left: 60px; text-indent: -60px;">Rast, D. E. III, Gaffney, A. M., & Hogg, M. A. (2013). <i>The tyranny of normative distance: A social identity account of the exercise of power by remote leaders</i>. In M. C. Bligh & R. E. Riggio (Eds.), Exploring distance in leader-follower relationships: When near is far and far is near (pp. 215-240). New York: Routledge.</p>
+
+<p style="margin-left: 60px; text-indent: -60px;">Rast, D. E., III, Gaffney, A. M., & Yang, L. (2018). The impact of stereotype content on intergroup uncertainty and interactions. <i>Journal of Social Psychology</i>.</p>
+
 <p style="margin-left: 60px; text-indent: -60px;">Rast, D. E. III, Gaffney, A. M., Hogg, M. A., & Crisp, R. J. (2012). Leadership under uncertainty: When leaders who are non-prototypical group members can gain support. <i>Journal of Experimental Social Psychology, 48</i>, 646-653.</p>
 
-<p style="margin-left: 60px; text-indent: -60px;">Bligh, M. C., Casad, B. J., Schlehofer, M. M., & Gaffney, A. M. (2012). Competent enough, but would you vote for her? Gender stereotypes, political affiliation, and media influences on perceptions of women senators.  <i>Journal of Applied Social Psychology, 42</i>, 560-597.</p>
 
-<p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., Hogg, M. A., Cooper, J., & Stone, J. (2012). Witness to hypocrisy: Reacting to ingroup hypocrites in the presence of others. <i>Social Influence, 7</i>, 98-112.</p>
+
+

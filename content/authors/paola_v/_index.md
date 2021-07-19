@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Paola Valdovinos-Rojas
+name: Paola E. Valdovinos
 
 # Username (this should match the folder name)
 authors:

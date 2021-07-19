@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Behavior Interventionist with Precious Hearts Academy, School for Autism and Developmental Disabilities
+role: Behavior Interventionist with Precious Hearts Academy
 
 # Organizations/Affiliations
 organizations:

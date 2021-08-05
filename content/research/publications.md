@@ -22,7 +22,7 @@ subtitle = ""
 
 <p style="margin-left: 60px; text-indent: -60px;">Crano, W. D. & <b>Gaffney, A. M. </b>(2021). Populism in the west as a form of influence. In J. P. Forgas, K. Fiedler, & W. D. Crano (Eds.), <i>The Psychology of Populism: The Tribal Change to Liberal Democracy</i> (Sydney Symposium of Social Psychology) (pp. 297-318). London: Psychology Press.</p> 
 
-<p style="margin-left: 60px; text-indent: -60px;"><b>Gaffney, A. M.</b>, Rast, D. E. III, & Hogg, M. A. (2018). Unexpected leadership under uncertainty: A social identity analysis of non-prototypical leader emergence. <i>Journal of Social Issues</i>,74, 20-35.<a href= https://spssi.onlinelibrary.wiley.com/doi/10.1111/josi.12254> doi: 10.1111/josi.12254</p>
+<p style="margin-left: 60px; text-indent: -60px;"><b>Gaffney, A. M.</b>, Rast, D. E. III, & Hogg, M. A. (2018). Unexpected leadership under uncertainty: A social identity analysis of non-prototypical leader emergence. <i>Journal of Social Issues</i>,74, 20-35.<a href= https://spssi.onlinelibrary.wiley.com/doi/10.1111/josi.12254> doi: 10.1111/josi.12254</a></p>
 
 <p style="margin-left: 60px; text-indent: -60px;">Hogg, M. A. & <b>Gaffney, A. M.</b>  (2018). Group processes and intergroup relations. In S. Ghetti (Ed.), <i>The Stevens’ handbook of experimental psychology and cognitive neuroscience.</i> Volume 3: Developmental and social psychology. New York: Wiley.</p>
 

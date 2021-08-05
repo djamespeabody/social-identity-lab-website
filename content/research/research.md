@@ -16,7 +16,6 @@ subtitle = ""
   columns = "2"
 
 +++
-
 <p style="text-align:center;"><a href = "https://hsu-socialidentitylab.com/research/#publications">Selected Publications</a><br>
 <a href = "https://hsu-socialidentitylab.com/research/#symposiums">Recent Symposium Conveyor</a><br>
 <a href = "https://hsu-socialidentitylab.com/research/#presentations">Recent Presentations</a><br>

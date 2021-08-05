@@ -17,7 +17,7 @@ subtitle = ""
 
 +++
 
-<p style="text-align:center;"><a href = "https://hsu-socialidentitylab.com/research/#publications">Recent Publications</a><br>
+<p style="text-align:center;"><a href = "https://hsu-socialidentitylab.com/research/#publications">Selected Publications</a><br>
 <a href = "https://hsu-socialidentitylab.com/research/#symposiums">Recent Symposium Conveyor</a><br>
 <a href = "https://hsu-socialidentitylab.com/research/#presentations">Recent Presentations</a><br>
 <a href = "https://hsu-socialidentitylab.com/research/#studentpres">Recent Student-led Oral and Poster Presentations</a><br>

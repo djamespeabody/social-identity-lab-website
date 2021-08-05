@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Selected Publications"
 subtitle = ""
 
 [design]
@@ -16,6 +16,8 @@ subtitle = ""
   columns = "2"
 
 +++
+<p style="margin-left: 60px; text-indent: -60px;">Syfers*, L., Rast, D.E. III., & Gaffney, A.M. (in press). Leading change by protecting group identity in the 2019 Canadian General Election. <i>Analyses of Social Issues and Public Policy</i>.<a href="https://doi.org/10.1111/asap.12255"</a></p>
+
 <p style="margin-left: 60px; text-indent: -60px;">Crano, W. D. & Gaffney, A. M. (2021). Populism in the west as a form of influence. In J. P. Forgas, K. Fiedler, & W. D. Crano (Eds.), <i>The Psychology of Populism: The Tribal Change to Liberal Democracy (Sydney Symposium of Social Psychology)</i> (pp. 297-318). London: Psychology Press. </p>
 
 <p style="margin-left: 60px; text-indent: -60px;">Gaffney, A. M., & La Vogue, N. (2020). <i>Dogmatism and need for closure</i>. In M. A. Hogg (Ed.), The Oxford Encyclopedia of Social Psychology.  New York: Oxford University Press.</p> 
@@ -82,7 +84,7 @@ subtitle = ""
 
 <p style="margin-left: 60px; text-indent: -60px;">Syfers*, L., Gaffney, A.M., Rast, D.E., III., Estrada, D. A. (Under revision). Communicating group norms through election results, <i>British Journal of Social Psychology.</i> Department of Psychology, University of Alberta. </p>
 
-<p style="margin-left: 60px; text-indent: -60px;">Syfers*, L., Rast, D.E. III., & Gaffney, A.M. (in press). Leading change by protecting group identity in the 2019 Canadian General Election. <i>Analyses of Social Issues and Public Policy</i>. https://doi.org/10.1111/asap.12255</p>
+
 
 
 

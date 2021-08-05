@@ -16,7 +16,7 @@ subtitle = ""
   columns = "2"
 
 +++
-<p style="margin-left: 60px; text-indent: -60px;">Syfers*, L., Rast, D.E. III., & Gaffney, A.M. (in press). Leading change by protecting group identity in the 2019 Canadian General Election. <i>Analyses of Social Issues and Public Policy</i>. <a href="https://doi.org/10.1111/asap.12255">doi: 10.1111/asap.12255</a></p>
+<p style="margin-left: 60px; text-indent: -60px;">Syfers*, L., Rast, D.E. III., & <b>Gaffney, A.M.</b> (in press). Leading change by protecting group identity in the 2019 Canadian General Election. <i>Analyses of Social Issues and Public Policy</i>. <a href="https://doi.org/10.1111/asap.12255">doi: 10.1111/asap.12255</a></p>
 
 <p style="margin-left: 60px; text-indent: -60px;">Syfers*, L., <b>Gaffney, A.M.</b>, Rast, D.E. III, & Estrada*, D.A. (2021). Communicating group norms through election results. The British Journal of Social Psychology. <a href= https://doi.org/10.1111/bjso.12481> doi: 10.1111/bjso.12481</a></p> 
 

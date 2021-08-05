@@ -36,11 +36,11 @@ subtitle = ""
 
  <p style="margin-left: 60px; text-indent: -60px;">Rast, D. E. III, <b>Gaffney, A. M.</b>, Hogg, M. A., & Crisp, R. J. (2012). Leadership under uncertainty: When leaders who are non-prototypical group members can gain support.<i> Journal of Experimental Social Psychology, </i>48, 646-653.<a href= "https://www.sciencedirect.com/science/article/abs/pii/S0022103111003039">doi: 10.1016/j.jesp.2011.12.013</a></p>
 
-<p style="margin-left: 60px; text-indent: -60px;">Bligh, M. C., Casad, B. J., Schlehofer, M. M., & <b>Gaffney, A. M.</b> (2012). Competent enough, but would you vote for her? Gender stereotypes, political affiliation, and media influences on perceptions of women senators. <i>Journal of Applied Social Psychology,</i> 42, 560-597.<a href= "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2011.00781.x">doi: 10.1111/j.1559-1816.2011.00781.x</a> </p>
+<p style="margin-left: 60px; text-indent: -60px;">Bligh, M. C., Casad, B. J., Schlehofer, M. M., & <b>Gaffney, A. M.</b> (2012). Competent enough, but would you vote for her? Gender stereotypes, political affiliation, and media influences on perceptions of women senators. <i>Journal of Applied Social Psychology,</i> 42, 560-597.<a href= "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.2011.00781.x"> doi: 10.1111/j.1559-1816.2011.00781.x</a> </p>
 
 <p style="margin-left: 60px; text-indent: -60px;"><b>Gaffney, A. M.</b>, Hogg, M. A., Cooper, J., & Stone, J. (2012). Witness to hypocrisy: Reacting to ingroup hypocrites in the presence of others. <i>Social Influence,</i> 7, 98-112.<a href= "https://www.tandfonline.com/doi/full/10.1080/15534510.2012.663741"> doi: 10.1080/15534510.2012.663741</a>  </p>
 
-<p style="margin-left: 60px; text-indent: -60px;">Aberson, C. L. & <b>Gaffney, A. M.</b> (2009). An integrated threat model of explicit and implicit attitudes.<i> European Journal of Social Psychology,</i> 39, 808-830.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.582">doi: 10.1002/ejsp.582</a> </p>
+<p style="margin-left: 60px; text-indent: -60px;">Aberson, C. L. & <b>Gaffney, A. M.</b> (2009). An integrated threat model of explicit and implicit attitudes.<i> European Journal of Social Psychology,</i> 39, 808-830.<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.582"> doi: 10.1002/ejsp.582</a> </p>
 
 
 

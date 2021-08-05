@@ -16,7 +16,7 @@ subtitle = ""
   columns = "1"
 
 +++
-<p align="center"><font size="1">The HSU Social Identity lab works collaboratively with the following labs:</font></p>
+<p align="center"><font size="3">The HSU Social Identity lab works collaboratively with the following labs:</font></p>
 
 <p align="center"><a href=http://www.socialidentitylab.com/>Professor Michael Hogg's Social Identity Lab</a></p>
 <p align="center"><a href=http://sites.psych.ualberta.ca/rastlab/>Dr. David Rast's Group Processes and Leadership Lab<a></p>

@@ -35,6 +35,8 @@ Alicia Martin<br>
 Heather Reynolds<br>
 Edwin Rosales-Vijil<br>
 Brian Taylor<br>
+Sophie Timin<br>
 Kira Trinity<br>
+Joshua Worthington<br>
 Ingrid Zulgis<br></p>
 

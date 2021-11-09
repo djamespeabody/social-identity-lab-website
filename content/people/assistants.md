@@ -20,6 +20,7 @@ subtitle = ""
 <h3 style="text-align:center">Research Assistants</h3>
 <p style="text-align:center">
 Grace Belt<br>
+Amanda DeSimone<br>
 Jazmin Delgado<br> 
 Enicia Fegurgur<br>
 Devin Flynn<br>

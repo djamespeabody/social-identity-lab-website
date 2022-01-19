@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Molly Conso
+name: Crane Conso
 
 # Username (this should match the folder name)
 authors:
-- molly_c
+- crane_c
 
 # Is this the primary user of the site?
 superuser: true

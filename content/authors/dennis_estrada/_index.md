@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Fellow
+role: PhD Student UC Santa Cruz
 
 # Organizations/Affiliations
 organizations:

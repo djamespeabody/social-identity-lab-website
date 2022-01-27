@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Fellow
-
+role: Senior Research Fellow, Adjunct Faculty, Cal Poly Humboldt
 # Organizations/Affiliations
 organizations:
 - name: 

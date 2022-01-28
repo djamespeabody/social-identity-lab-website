@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Counselor at Aegis Treatment Centers
+role: Case Manager at YMCA Seattle
 
 # Organizations/Affiliations
 organizations:

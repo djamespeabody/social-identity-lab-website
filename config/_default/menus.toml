@@ -30,8 +30,7 @@
   
   [[main]]
   name = "Poster Presentations"
-  url = "hhtps://hsu-socialidentitylab.com/Poster_Presentations
-  # social-identity-lab-website/content/Poster Presentations/index.md
+  url = "https://hsu-socialidentitylab.com/Poster_Presentations"
   weight = 20
 
 # Link to a PDF of your resume/CV from the menu.

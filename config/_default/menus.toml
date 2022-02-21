@@ -28,11 +28,6 @@
   url = "https://hsu-socialidentitylab.com/join"
   weight = 60
  
- [[main]]
-  name = "Poster Presentations"
-  url = "https://hsu-socialidentitylab.com/posterpresentations/"
-  weight = 80
-  
   
 
 # Link to a PDF of your resume/CV from the menu.

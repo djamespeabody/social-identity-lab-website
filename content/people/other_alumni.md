@@ -53,3 +53,6 @@ Program Assistant/Health Information Specialist for the Ventura Wrap/FURS progra
 <p style="text-align:center"><strong>Shelley Magallanes</strong><br>
 Graduate Student of Counseling Psychology at Humboldt State University</p>
 
+<p style="text-align:center"><strong>Sam Lilienthal</strong><br>
+School Psychology Graduate Student at The College of Saint Rose</p>
+

@@ -31,7 +31,6 @@ Sage Gill<br>
 Cozy Hunter<br>
 Rachael Kee<br>
 Radhika Kothari<br>
-Sam Lilienthal<br>
 Michael Loza<br>
 Alicia Martin<br>
 Juliana Molony<br>

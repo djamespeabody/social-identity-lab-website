@@ -53,4 +53,4 @@ They’re Taking Your Jobs! Leader Rhetoric and the Creation of Deprivation.
 My work is focused on leadership and political polarization. I am interested in how intergroup relations  affect group norms, identity and political extremism. Additionally, I am invested in social justice, and am committed to integrating an understanding of social identity, self categorization, and intergroup behavior to support a lasting shift towards a more just world.
 
 <h3>Recent Work</h3>
-<p style="margin-left: 60px; text-indent: -60px;">Sherburne, B., Conso, M., Sarai, E. C., Hackett, J. D., & Gaffney, A. M. (2019, February). <i>When Might People Give up Political Voice?</i> Poster session to be presented at the annual meeting of the Society for Personality and Social Psychology, Portland, OR.</p>
+<p>Sherburne, B., Conso, M., Sarai, E. C., Hackett, J. D., & Gaffney, A. M. (2019, February). <i>When Might People Give up Political Voice?</i> Poster session to be presented at the annual meeting of the Society for Personality and Social Psychology, Portland, OR.</p>

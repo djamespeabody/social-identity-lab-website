@@ -50,4 +50,4 @@ user_groups:
 I am interested in examining how criticism of not just the individual, but a group’s leader, might influence individuals’ perception of their social identity and responses to inter-group relations. My thesis specifically examines how an intergroup context affects perceived criticism by polarizing group identities and delegitimizing fair criticism.
 
 <h3>Recent Work</h3>
-<p style="margin-left: 60px; text-indent: -60px;">Mendez, J., Griffith, Z., Newman, Al., Sherburne, B., &amp; Gaffney, A. M. (2020, February). <i>The role of uncertainty and efficacy in schism potential.</i> Poster presented at the Society for the Personality and Social Psychology Conference, New Orleans, LA.</p>
+<p style="margin-left: 60px; text-indent: -60px;">Mendezz, J., Griffith, Z., Newman, Al., Sherburne, B., &amp; Gaffney, A. M. (2020, February). <i>The role of uncertainty and efficacy in schism potential.</i> Poster presented at the Society for the Personality and Social Psychology Conference, New Orleans, LA.</p>

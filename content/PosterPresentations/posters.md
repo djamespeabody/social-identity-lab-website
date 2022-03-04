@@ -15,5 +15,7 @@ subtitle = ""
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 
-<h3> All Poster Presentations for the GPIR 2022 conference can be found <a href="https://drive.google.com/drive/folders/1boVjrZn9oShy1rJT8BsmayWKk2mhWHMF">here</a> </h3>
+
 +++
+
+<h3> All Poster Presentations for the GPIR 2022 conference can be found <a href="https://drive.google.com/drive/folders/1boVjrZn9oShy1rJT8BsmayWKk2mhWHMF">here</a> </h3>

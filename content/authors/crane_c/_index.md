@@ -47,7 +47,7 @@ user_groups:
 ---
 
 <h3>Thesis</h3> 
-They’re Taking Your Jobs! Leader Rhetoric and the Creation of Deprivation.
+Uncertainty, Populist Deprivation Rhetoric, and Extremism
 
 <h3>Research Interests</h3>
 My work is focused on leadership and political polarization. I am interested in how intergroup relations  affect group norms, identity and political extremism. Additionally, I am invested in social justice, and am committed to integrating an understanding of social identity, self categorization, and intergroup behavior to support a lasting shift towards a more just world.

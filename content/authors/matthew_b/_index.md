@@ -53,4 +53,4 @@ controversial topics, humor can be used to persuade or change a persons way of t
 
 <h3>Recent Work</h3>
 
-<p style="margin-left: 60px; text-indent: -60px;">Burt, M., Reynolds, H., Souter, S. S., Kathari, R., Lopez, A., Syfers, L., Gaffney, A.M., (2022, February) Who’s got your vote? Exploring the use of rhetoric and its impact on uncertain voters. Poster session presented at the annual conference of the Society for Personality and Social Psychology, San Francisco, CA.</p>
+<p> Burt, M., Reynolds, H., Souter, S. S., Kathari, R., Lopez, A., Syfers, L., Gaffney, A.M., (2022, February) Who’s got your vote? Exploring the use of rhetoric and its impact on uncertain voters. Poster session presented at the annual conference of the Society for Personality and Social Psychology, San Francisco, CA.</p>

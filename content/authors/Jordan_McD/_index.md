@@ -50,4 +50,4 @@ user_groups:
 My current research interests include minority influence, social identity, prejudice, and social and political issues.  I am especially interested in the ways in which  mainstream society appropriates Black people and culture, but attribute both negatively.  With the current socio-political climate, I feel passionately about social change and equality.
 
 <h3>Recent Work</h3>
-<p style="margin-left: 60px; text-indent: -60px;">McDowell*, J., Obiekezie*, C., Gaffney, A. M., & Hackett, J. D. (2020, February). <i>Self-uncertainty and cultural appropriation.</i> Poster session at the annual meeting of the Society for Personality and Social Psychology, New Orleans, LA.</p>
+<p>McDowell*, J., Obiekezie*, C., Gaffney, A. M., & Hackett, J. D. (2020, February). <i>Self-uncertainty and cultural appropriation.</i> Poster session at the annual meeting of the Society for Personality and Social Psychology, New Orleans, LA.</p>

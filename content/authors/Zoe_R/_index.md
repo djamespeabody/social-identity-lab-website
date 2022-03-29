@@ -47,5 +47,4 @@ user_groups:
 ---
 
 <h3>Research Interests</h3>
-My research interests are rooted in the fields of social neuroscience and cognitive psychology. I am interested in investigating how social cohesion in groups influences stress responses and how they can lead to pathological anxieties. I am interested in the neuropsychology of human behavior and social perceptions, particularly understanding how these factors impact vulnerable group members, like pregnant women and children. I also have interests in how uncertainty in one’s social identity influences perceptions of motherhood and child-rearing. I am committed to using interdisciplinary approaches in my research and hope to contribute to community and women’s health policy decisions.
-
+My research centers on how social identity and categorization processes influence our perceptions of others and the world. I have a broad interest in how cognitive and societal belief systems can shape experiences of threat and anxiety, using methods ranging from behavioral neuroscience to sociology. I am also interested in how uncertainty influences perceptions of motherhood and child-rearing. I am committed to interdisciplinary approaches and hope to contribute to understanding our social identities and group memberships influence behavior. 

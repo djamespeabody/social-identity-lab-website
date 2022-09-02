@@ -10,9 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Fellow, Adjunct Faculty, Cal Poly Humboldt
+role: Co-Investigator
 # Organizations/Affiliations
-organizations:
+organizations: Cal Poly Humbodt
 - name: 
   url: ""
 
@@ -41,7 +41,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Principle Investigators
 
 ---
 

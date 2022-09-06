@@ -44,7 +44,7 @@ user_groups:
 - Researchers
 
 ---
-
+<h1>Co-Investigator</h1>
 <h3>Thesis</h3>
 Not Guilty by Reason of Insanity Defense comparing African American and White Defendants
 

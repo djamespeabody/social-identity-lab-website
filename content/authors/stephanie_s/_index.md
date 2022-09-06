@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
--role: Co-Investigator
+- role: Co-Investigator
 # Organizations/Affiliations
 organizations: Cal Poly Humbodt
 - name: 

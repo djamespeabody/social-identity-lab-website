@@ -10,7 +10,7 @@ subtitle = ""
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["Lab Manager", "Researchers", "Graduate Students"]
+user_groups = ["Lab Manager", "Graduate Students"]
 
 [design]
   # Show user's social networking links? (true/false)

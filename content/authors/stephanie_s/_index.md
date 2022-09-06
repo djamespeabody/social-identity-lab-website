@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Co-Investigator
+-role: Co-Investigator
 # Organizations/Affiliations
 organizations: Cal Poly Humbodt
 - name: 
@@ -41,7 +41,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Researchers
 
 ---
 

@@ -13,4 +13,4 @@ title = ""
 +++
 
 <p style="text-align:center;"><h1>Our Lab in Action!</h1>
-{{< gallery album="gallery_images" >}}</p>
+< gallery album="gallery_images" ></p>

@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-- role: Co-Investigator
+role: Co-Investigator
 # Organizations/Affiliations
-organizations: Cal Poly Humbodt
-- name: 
-  url: ""
+# organizations: Cal Poly Humbodt
+# - name: 
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
